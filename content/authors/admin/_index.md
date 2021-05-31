@@ -19,8 +19,8 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: @McMaster University
-  url: https://www.stanford.edu/
+- name: McMaster University
+  url: https://science.mcmaster.ca/pnb/
 role: Year III in Psychology, Neuroscience & Behaviour
 social:
 - icon: envelope
