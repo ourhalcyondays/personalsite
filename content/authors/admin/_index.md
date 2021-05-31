@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: @McMaster University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Year III in Psychology, Neuroscience & Behaviour
 social:
 - icon: envelope
   icon_pack: fas
