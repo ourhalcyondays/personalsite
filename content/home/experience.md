@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Project Student
+  - title: Independent Research Student
     company: Aquatic Behavioural Ecology Lab
     company_url: 'https://abel.mcmaster.ca/'
     company_logo: ABEL
