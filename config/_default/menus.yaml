@@ -8,10 +8,10 @@ main:
 #    url: '#about'
 #    weight: 10
   - name: Blog
-    url: '#blog'
+    url: 'blog'
     weight: 20
   - name: Projects
-    url: '#projects'
+    url: 'projects'
     weight: 30
 #  - name: Talks
 #    url: '#talks'
@@ -22,9 +22,9 @@ main:
 #  - name: Courses
 #    url: courses/
 #    weight: 60
-  - name: Portfolio
-    url: '#portfolio'
-    weight: 40
+#  - name: Portfolio
+#    url: '#portfolio'
+#    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
