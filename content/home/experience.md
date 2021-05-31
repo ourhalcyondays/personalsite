@@ -43,7 +43,7 @@ experience:
     location: Hamilton, ON
     date_start: '2021-01-11'
     date_end: ''
-   description:
+   description:|2-
 
 
 design:
