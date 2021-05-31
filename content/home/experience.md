@@ -41,9 +41,9 @@ experience:
     company_url: 'https://abel.mcmaster.ca/'
     company_logo: ABEL
     location: Hamilton, ON
-    date_start: '2021-01-11'
+    date_start: '2021-05-03'
     date_end: ''
-   description:|2-
+    description:
 
 
 design:
