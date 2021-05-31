@@ -43,7 +43,15 @@ experience:
     location: Hamilton, ON
     date_start: '2021-01-11'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
+    •	Used BORIS software to collect experimental data from video
+      observations in Dr. Balshine’s Aquatic Behavioural Ecology Lab.
+    •	Prepared written summaries of collected data and presented results.
+    •	Trained in CAF Fish Handling, WHMIS, and EOHSS Health and Safety.
+    •	Managed large workloads with minimal supervision while working  
+      remotely.
+
+
 
 design:
   columns: '2'
