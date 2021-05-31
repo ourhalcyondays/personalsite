@@ -7,7 +7,6 @@ theme: "starter-hugo-academic"
 title: Jessica Qiu # Website name
 baseurl: 'https://jessicaqiu.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-rstudioapi::navigateToFile("content/authors/admin/_index.md")
 
 ############################
 ## LANGUAGE
