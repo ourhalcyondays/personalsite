@@ -53,7 +53,7 @@ experience:
   - title: Creative Director
     company: LEAP Canada
     company_url: 'https://www.leapcanada.org/'
-    company_logo: leap
+    company_logo: art
     location: Toronto, ON
     date_start: '2020-03-15'
     date_end: ''
@@ -66,6 +66,15 @@ experience:
     location: Toronto, ON
     date_start: '2020-07-29'
     date_end: '2020-08-14'
+    description:
+    
+  - title: Fracture Clinic & Inpatient Mental Health Volunteer
+    company: Markham-Stouffville Hospital
+    company_url: 'https://www.msh.on.ca/'
+    company_logo: firstaid
+    location: Markham, ON
+    date_start: '2017-07-01'
+    date_end: '2018-08-14'
     description:
 
 design:
