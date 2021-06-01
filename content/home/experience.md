@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Wilson Toxicology Lab
     company_url: 'https://wilsontoxlab.ca/'
-    company_logo: org-gc
+    company_logo: flask
     location: Hamilton, ON
     date_start: '2021-05-03'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Independent Research Student
     company: Aquatic Behavioural Ecology Lab
     company_url: 'https://abel.mcmaster.ca/'
-    company_logo: ABEL
+    company_logo: fish
     location: Hamilton, ON
     date_start: '2021-05-03'
     date_end: ''
