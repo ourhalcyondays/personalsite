@@ -43,8 +43,30 @@ experience:
     location: Hamilton, ON
     date_start: '2021-05-03'
     date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Creative Director
+    company: LEAP Canada
+    company_url: 'https://www.leapcanada.org/'
+    company_logo: leap
+    location: Toronto, ON
+    date_start: '2020-03-15'
+    date_end: ''
     description:
-
+    
+  - title: Camp Counsellor
+    company: Village Eulogia for Families with Special Needs
+    company_url: 'https://www.villageeulogia.com/'
+    company_logo: hands
+    location: Toronto, ON
+    date_start: '2020-07-29'
+    date_end: '2020-08-14'
+    description:
 
 design:
   columns: '2'

@@ -3,25 +3,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc. in Psychology, Neuroscience & Behaviour
+    institution: McMaster University
+    year: 2023
+  - course: Ontario Secondary School Diploma, Honour Roll
+    institution: Unionville Highschool
+    year: 2019
 email: "qiuj22@mcmaster.ca"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Animal Behaviour
+- Neurobiology
+- Human Cognition
 organizations:
 - name: McMaster University
   url: https://science.mcmaster.ca/pnb/
-role: Year III in Psychology, Neuroscience & Behaviour
+role: Psychology, Neuroscience & Behaviour (BSc.)
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,7 +42,7 @@ superuser: true
 title: Jessica Qiu
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. She is drawn to research that has implications for improving people's lives and the earth we share.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
