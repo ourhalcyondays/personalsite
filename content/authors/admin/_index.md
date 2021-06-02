@@ -15,6 +15,8 @@ interests:
 - Animal Behaviour
 - Neurobiology
 - Human Cognition
+- Knowledge Management
+- Art & Design
 organizations:
 - name: McMaster University
   url: https://science.mcmaster.ca/pnb/
