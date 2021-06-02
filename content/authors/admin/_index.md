@@ -15,7 +15,7 @@ interests:
 - Animal Behaviour
 - Neurobiology
 - Human Cognition
-- Knowledge Management
+- Personal Knowledge Management
 - Art & Design
 organizations:
 - name: McMaster University
@@ -25,8 +25,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
+#- display:
+#    header: true
 #  icon: twitter
 #  icon_pack: fab
 #  label: Follow me on Twitter
