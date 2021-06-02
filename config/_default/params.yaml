@@ -8,7 +8,7 @@
 theme: custom
 day_night: true
 font: 'custom'
-font_size: L
+font_size: M
 
 # SEO
 
@@ -59,12 +59,12 @@ phone: (647) 782-1888
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
-  highlight_active_link: true
+  highlight_active_link: false
 
 # Localization
 

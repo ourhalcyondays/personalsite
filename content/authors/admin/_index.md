@@ -32,7 +32,7 @@ social:
 #- icon: graduation-cap
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  icon: palette
+- icon: palette
   icon_pack: fas
   link: https://jessicaqiu.myportfolio.com/
 - icon: github
