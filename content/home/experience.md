@@ -41,7 +41,7 @@ experience:
     company_url: 'https://abel.mcmaster.ca/'
     company_logo: fish
     location: Hamilton, ON
-    date_start: '2021-05-03'
+    date_start: '2021-01-09'
     date_end: ''
     description: |2-
         Responsibilities include:
