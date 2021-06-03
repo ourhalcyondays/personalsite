@@ -7,7 +7,7 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: []
+authors: [Jessica Qiu]
 lastmod: '2021-06-02T10:24:41-04:00'
 featured: no
 image:
