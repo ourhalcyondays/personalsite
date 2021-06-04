@@ -30,11 +30,9 @@ experience:
     date_start: '2021-05-03'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Performed fish care tasks such as feeding, water quality, water changes, and taking water samples.
+        * Trained in microscopy, morphometrics, and pipetting skills.
+        * Sampled zebrafish tissues (brain, liver, gills, kidney, gonads, intestines, and muscle).
         
   - title: Independent Research Student
     company: Aquatic Behavioural Ecology Lab
@@ -44,11 +42,9 @@ experience:
     date_start: '2021-01-09'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Used BORIS software to collect experimental data from video observations.
+        * Plotted summaries of collected data in R and presented results.
+        * Managed large workloads with minimal supervision while working remotely.
         
   - title: Creative Director
     company: LEAP Canada
@@ -57,7 +53,8 @@ experience:
     location: Toronto, ON
     date_start: '2020-03-15'
     date_end: ''
-    description:
+    description: |2-
+        * Developed team branding and marketing materials from scratch with creative team.
     
   - title: Camp Counsellor
     company: Village Eulogia for Families with Special Needs
