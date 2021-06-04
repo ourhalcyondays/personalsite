@@ -29,10 +29,10 @@ content:
     tag: '*'
   - name: Research
     tag: Research
-  - name: Graphic Design
-    tag: Graphic Design
   - name: R
     tag: R
+  - name: Graphic Design
+    tag: Graphic Design
   - name: UI/UX Design
     tag: UI/UX Design
 

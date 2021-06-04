@@ -15,6 +15,8 @@ image:
   focal_point: ''
   preview_only: true
 projects: []
+share: false
+profile: true
 ---
 
 
