@@ -9,8 +9,8 @@ links:
   icon_pack: fas
   name: About AOPUTC
   url: https://science.mcmaster.ca/pnb/news-events/aoputc.html
-slides: example
-summary: An example of using the in-built project page.
+poster: example
+summary: Learn more about my project on leadership behaviour in redside dace! This research was completed as part of a 2QQ3 Independent Research Practicuum and presented at the Annual Ontario Psychology Undergraduate Thesis Conference.
 tags:
 - Research
 - R
