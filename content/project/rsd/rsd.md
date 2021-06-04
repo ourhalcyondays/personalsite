@@ -5,11 +5,14 @@ image:
   caption:
   focal_point: Smart
 links:
+- icon:
+  icon_pack:
+  name: Poster
+  url: https://drive.google.com/file/d/1ZVkMV1Jf_HUgOYHp5n7IqyTePjU7_h48/view?usp=sharing
 - icon: brain
   icon_pack: fas
   name: About AOPUTC
   url: https://science.mcmaster.ca/pnb/news-events/aoputc.html
-poster: example
 summary: Learn more about my project on leadership behaviour in redside dace! This research was completed as part of a 2QQ3 Independent Research Practicuum and presented at the Annual Ontario Psychology Undergraduate Thesis Conference.
 tags:
 - Research
