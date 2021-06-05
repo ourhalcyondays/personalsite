@@ -5,6 +5,7 @@ image:
   caption: 
   focal_point: Smart
   preview: true
+  preview_only: true
 header:
   image: ""
   caption: ""
