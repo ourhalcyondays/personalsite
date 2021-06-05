@@ -18,7 +18,9 @@ projects: []
 share: false
 ---
 
-Okay, I’ll level with you. 
+{{< toc >}}
+
+#### Okay, I’ll level with you. 
 
 No productivity tool, app or gizmo will fix your work ethic if it sucks.
 (Sorry, had to be said.)
@@ -33,13 +35,13 @@ Wow, right?
 
 Here’s what my system looks like, and I’ll also introduce the tools I use along the way.
 
-# I. INBOX (ft. Notion)
+## I. INBOX (ft. Notion)
 
 My system begins at the **inbox**. My inbox is a dump of all my stray tasks, thoughts and to-do’s. If anything worth keeping enters my brain, it exits my brain and goes straight into the inbox for later sorting. The goals are threefold: A) to keep everything in one place so B) I don't forget anything and C) I feel more secure because I don't always feel like I'm missing something. I use a very simple [Notion](https://www.notion.so/product?fredir=1) page for this, but I find any cross-platform note-taking app can do the trick!
 
 {{< figure src="1Inbox.png" caption="" >}}
 
-# II. TO-DO (ft. Notion)
+## II. TO-DO (ft. Notion)
 
 From my inbox, tasks get sorted into my to-do list. What can I say? This is the tried and true method. But I do add a few tweaks that are especially helpful to my workflow. To start, I have an unwritten cardinal rule for a task to qualify as a To-Do. Every individual to-do must be:
 
@@ -69,7 +71,7 @@ I use [Notion](https://www.notion.so/product?fredir=1) for to-dos because I LOVE
 
 Another few basic things I do to make my to-do list efficient is to sort it in order of priority so most urgent/important tasks are on the top and all tasks are **colour-coded** by course or type of to-do.
 
-# III. TIMEBOXING ft. Google Calendar.
+## III. TIMEBOXING ft. Google Calendar.
 After I arm myself with my list of to-do's, the magic happens at [Google Calendar](https://www.google.com/calendar). **Timeboxing** is the practice of assigning a specific chunk of time to every task. It looks like this:
 
 {{< figure src="3Calendar.png" caption="" >}}
@@ -98,7 +100,7 @@ If you like this type of efficient planning, I've got one last tip for you. It's
 
 And if you're a night owl or morning lark (You're not a myth?!), don't worry. Everything above still applies to you too! Just on a slightly deviated schedule.
 
-# IV. POWER HOUR (Bonus)
+## IV. POWER HOUR (Bonus)
 
 Okay, I'll admit it. I should probably rename this to something less embarrassing. But the concept will remain the same: one hour a week to finish all the small miscellaneous tasks that need to be done. There is a sentiment floating around in the productivity community that goes "If it takes 2 minutes, do it now." Examples of 2-minute tasks include: clearing out your inbox, doing the laundry, or watering your plants.
 
@@ -106,7 +108,7 @@ I think the idea is to build momentum so that you can start with small tasks, fe
 
 {{< figure src="5PowerHour.png" caption="" >}}
 
-# V. COGNITIVE OFFLOADING (Bonus Bonus) ft. Dynalist
+## V. COGNITIVE OFFLOADING (Bonus Bonus) ft. Dynalist
 
 Cognitive offloading is a complicated psychology term for a pretty simple thing: brain dumping. At any given time, there are bajillions of thoughts in our brains demanding our attention. This means our limited goldfish brains are wasting space thinking about the-shirt-you-need-to-buy-before-its-out-of-stock instead of the thing you’re _supposed_ to be doing. Our working memory (short-term memory) can only store so many things at once. So to help free brain space, writing these things down in a list helps unclutter memory. This is different from Inbox because cognitive offloading is deliberately setting aside some time to unclutter, whereas Inbox items end up there as they come up throughout the day.
 
@@ -118,7 +120,7 @@ As you can see, anything goes, especially your incomplete thoughts or random fee
 
 The app I like using for this is called [Dynalist](https://dynalist.io/). It's an outliner note-taking app, which means every bullet point can be expanded to become its own note, so you can expand thoughts infinitely. Other nice outliner apps include [Workflowy](https://workflowy.com/hello/?2) and [Transno](https://transno.com/).
 
-# IV. CLOSING THOUGHTS
+## IV. CLOSING THOUGHTS
 
 Full disclosure: these are the things that currently work for **me**, and I am constantly fixing my system so it’s more frictionless. Not everything I do will work for you. In fact, I suspect that this particular system only works well for someone as utterly neurotic and hyper-organized as I am.
 
