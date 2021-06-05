@@ -3,6 +3,7 @@ title: 'Productivity Systems: The Antidote to Procrastination, Laziness & Emerge
 author: ''
 date: '2021-06-02'
 slug: productivity-systems-the-antidote-to-procrastination-laziness-emergencies
+profile: true
 categories: []
 tags: []
 subtitle: ''
@@ -16,7 +17,6 @@ image:
   preview_only: true
 projects: []
 share: false
-profile: true
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)

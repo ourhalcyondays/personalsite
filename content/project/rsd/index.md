@@ -21,6 +21,7 @@ links:
 summary: Learn more about my project on leadership behaviour in redside dace! This research was completed as part of a 2QQ3 Independent Research Practicuum and presented at the Annual Ontario Psychology Undergraduate Thesis Conference.
 tags:
 - Research
+- Animal Behaviour
 - R
 title: Simon Says; Leadership Behaviour in Redside Dace
 url_code: ""

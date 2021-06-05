@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. She is drawn to research that has implications for improving people’s lives and the earth we share.
 education:
   courses:
   - course: BSc. in Psychology, Neuroscience & Behaviour

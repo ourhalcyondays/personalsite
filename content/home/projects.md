@@ -33,9 +33,8 @@ content:
     tag: R
   - name: Graphic Design
     tag: Graphic Design
-  - name: UI/UX Design
-    tag: UI/UX Design
-
+  - name: Other
+    tag: Other
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
