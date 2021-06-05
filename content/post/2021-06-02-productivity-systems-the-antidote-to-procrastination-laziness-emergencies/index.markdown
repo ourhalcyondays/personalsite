@@ -1,14 +1,13 @@
 ---
 title: 'Productivity Systems: The Antidote to Procrastination, Laziness & Emergencies.'
-author: ''
+author: 'Jessica Qiu'
 date: '2021-06-02'
 slug: productivity-systems-the-antidote-to-procrastination-laziness-emergencies
-profile: true
 categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: [Jessica Qiu]
+authors: []
 lastmod: '2021-06-02T10:24:41-04:00'
 featured: no
 image:
@@ -18,7 +17,6 @@ image:
 projects: []
 share: false
 ---
-
 
 Okay, I’ll level with you. 
 

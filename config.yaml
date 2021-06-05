@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Jessica Qiu # Website name
 baseurl: 'https://jessicaqiu.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Made with ❤ using R {blogdown}, Hugo Academic, and some imagination.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

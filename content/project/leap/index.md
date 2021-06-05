@@ -1,5 +1,5 @@
 ---
-date: "2018-01-02T00:00:00Z"
+date: "2020-07-07T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -13,13 +13,18 @@ links:
 - icon: palette
   icon_pack: fas
   name: Portfolio
-  url: https://jessicaqiu.myportfolio.com/koi-1
-summary: Koi is apparel branding done for RecollectionToronto as part of their series of designs by youth artists.
+  url: https://jessicaqiu.myportfolio.com/leap-canada-branding-marketing
+- icon: frog
+  icon_pack: fas
+  name: LEAP
+  url: https://www.leapcanada.org/
+summary: A full series of branding and marketing materials produced for LEAP Canada from scratch!
 tags:
 - Graphic Design
 - Branding
 - Photoshop CC
-title: Koi (鯉) Apparel Design
+- Marketing
+title: LEAP Branding & Marketing
 url_code: ""
 url_pdf: ""
 url_slides: ""

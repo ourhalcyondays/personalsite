@@ -1,5 +1,5 @@
 ---
-date: "2018-01-02T00:00:00Z"
+date: "2021-02-028T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -10,16 +10,16 @@ header:
   image: ""
   caption: ""
 links:
-- icon: palette
+- icon: file-powerpoint
   icon_pack: fas
-  name: Portfolio
-  url: https://jessicaqiu.myportfolio.com/koi-1
-summary: Koi is apparel branding done for RecollectionToronto as part of their series of designs by youth artists.
+  name: Slides
+  url: https://drive.google.com/file/d/1z991StFBMZxDf6GYAPpa_QLbDHyM75di/view?usp=sharing
+summary: Luigi's been kidnapped! Join Mario on his great rescue mission and learn about the psychology behind the Gestalt Principles while Mario saves Luigi.
 tags:
-- Graphic Design
-- Branding
-- Photoshop CC
-title: Koi (鯉) Apparel Design
+- Psychology
+- Teaching
+- Other
+title: The Great Gestalt Rescue (MacIntroPsych Interview Presentation)
 url_code: ""
 url_pdf: ""
 url_slides: ""

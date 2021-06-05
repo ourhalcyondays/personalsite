@@ -1,5 +1,5 @@
 ---
-date: "2018-01-02T00:00:00Z"
+date: "2019-06-27T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -13,13 +13,14 @@ links:
 - icon: palette
   icon_pack: fas
   name: Portfolio
-  url: https://jessicaqiu.myportfolio.com/koi-1
-summary: Koi is apparel branding done for RecollectionToronto as part of their series of designs by youth artists.
+  url: https://jessicaqiu.myportfolio.com/connectus-ui
+summary: A complete website ui/ux design for connectUS.today. Includes landing page, onboarding pages, profile, settings and more! 
+
 tags:
 - Graphic Design
-- Branding
+- UI/UX Design
 - Photoshop CC
-title: Koi (鯉) Apparel Design
+title: ConnectUS Website Design
 url_code: ""
 url_pdf: ""
 url_slides: ""
