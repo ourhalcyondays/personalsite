@@ -65,7 +65,7 @@ experience:
     date_end: '2020-08-14'
     description:
     
-  - title: Fracture Clinic & Inpatient Mental Health Volunteer
+  - title: Fracture Clinic & Inpatient Mental Health Clinic Volunteer
     company: Markham-Stouffville Hospital
     company_url: 'https://www.msh.on.ca/'
     company_logo: firstaid
