@@ -1,6 +1,6 @@
 ---
 date: "2018-01-02T00:00:00Z"
-external_link: "https://jessicaqiu.myportfolio.com/koi-1"
+external_link: "https://jessicaqiu.myportfolio.com/logofolio"
 image:
   caption: 
   focal_point: Smart
@@ -13,17 +13,13 @@ links:
 - icon: palette
   icon_pack: fas
   name: Portfolio
-  url: https://jessicaqiu.myportfolio.com/koi-1
-- icon: instagram-square
-  icon_pack: fab
-  name: ReTO
-  url: https://www.instagram.com/recollectiontoronto/
-summary: Koi is apparel branding done for RecollectionToronto as part of their series of designs by youth artists.
+  url: https://jessicaqiu.myportfolio.com/logofolio
+summary: Logofolio, my portfolio for logos! Explore my showcase of logos designed for companies, organizations, clubs, and contests!
 tags:
 - Graphic Design
 - Branding
 - Photoshop CC
-title: Koi (鯉) Apparel Design
+title: Logofolio
 url_code: ""
 url_pdf: ""
 url_slides: ""

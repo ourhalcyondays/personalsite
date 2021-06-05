@@ -46,8 +46,8 @@ superuser: true
 title: Jessica Qiu
 ---
 
-Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. She is drawn to research that has implications for improving people's lives and the earth we share.
+I'm a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. I am passionate about making stuff and learning new things. Currently, I'm focused on further improving my research skills—I am especially drawn to research that has implications for improving people's lives and the earth we share.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When I'm not busy hustling as a student, you can find me tinkering away on R, Blender, and Photoshop CC. Did I mention I like making stuff?
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

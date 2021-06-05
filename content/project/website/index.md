@@ -1,6 +1,6 @@
 ---
-date: "2018-01-02T00:00:00Z"
-external_link: "https://jessicaqiu.myportfolio.com/koi-1"
+date: "2021-05-27T00:00:00Z"
+external_link: ""
 image:
   caption: 
   focal_point: Smart
@@ -10,20 +10,15 @@ header:
   image: ""
   caption: ""
 links:
-- icon: palette
+- icon: home
   icon_pack: fas
-  name: Portfolio
-  url: https://jessicaqiu.myportfolio.com/koi-1
-- icon: instagram-square
-  icon_pack: fab
-  name: ReTO
-  url: https://www.instagram.com/recollectiontoronto/
-summary: Koi is apparel branding done for RecollectionToronto as part of their series of designs by youth artists.
+  name: Home
+  url: https://jessicaqiu.netlify.app/
+summary: I wanted to do 3 things during the summer of 2021; create a personal site, learn R, and begin a blog. This checked all the boxes! 
 tags:
-- Graphic Design
-- Branding
-- Photoshop CC
-title: Koi (鯉) Apparel Design
+- R
+- Personal Website
+title: Personal Website in R {blogdown}
 url_code: ""
 url_pdf: ""
 url_slides: ""
