@@ -26,6 +26,6 @@ Every moment can be appreciated in at least 2 ways:
 
 Another way to see value in everyday moments is to remember that everything is connected. This means that small things are connected to the bigger picture. Learning or dealing with small things adds up to bigger life lessons.
 
-I have a tendency to plan plan and plan, to organize my days, weeks, and months so that the maximum *value* can fit into the time that I have. I like certainty and mapping probabilities and contingencies, but it means I forget to pay attention to the reality around me, sometimes. This way to live is harder; I seldom appreciate the moment.[^1]
+I have a tendency to plan plan and plan, to organize my days, weeks, and months so that the maximum *value* can fit into the time that I have. I like certainty and mapping probabilities and contingencies, but it means I forget to pay attention to the reality around me, sometimes. This way to live is harder; I seldom appreciate the moment.
 
-[^1]: Cain, D. (2021, May 18). *When All Moments Have Equal Value*. raptitude.com. [link](https://www.raptitude.com/2021/05/when-all-moments-have-equal-value/).
+[incomplete....]
