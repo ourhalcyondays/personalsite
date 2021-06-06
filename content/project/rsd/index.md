@@ -30,13 +30,58 @@ url_slides: ""
 url_video: ""
 share: false
 ---
+{{< toc >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+## Introduction & Background
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+So it may not surprise you that there is **power in numbers**. Animals understand this very well. Wolves, penguins, fish; all these animals survive better by living in groups.
+    
+But one limitation of living in a group is that there’s a LOT of coordination involved. Animals need to collectively decide where to go, what to eat, and how to act. It is not surprising then, that some individuals in the group often emerge as leaders to help coordinate.
+    
+However, the factors that determine WHO the leader is in an animal group are not well understood. So for our experiment, we examined leadership behaviour in the redside dace, a species of group-living fish really sensitive to temperature. We wanted to know whether factors like temperature preference, body size, boldness, or cognitive ability predicted leadership in fish. And to see whether leaders were consistent over time. In other words, who calls the shots in a group? And what makes these individuals leadership material?
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+## Methods
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+To test this, we placed groups of 3 fish inside a shuttlebox setup made of two tanks connected by a neck.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+{{< figure src="Shuttlebox.png" caption="Shuttlebox apparatus." >}}
+
+There was a temperature difference of 2 degrees between the two sides of the shuttlebox, and because the fish are sensitive to temperature, they would move between the two sides to set their preferred temperature. We also put clear barriers on both sides of the shuttlebox neck, which the fish had to swim AROUND to get to the other side. And our trusty camera on top recorded fish activity throughout the 8h trials.
+
+
+ Now we’re armed with our video data, but which fish behaviours were actually important to track? We measured 2 important types of behaviours: shuttling and inhibition.
+ 1. First, shuttling was when fish swam from one side of the shuttlebox to the other side, and we recorded the number of times the fish shuttled, the position of each fish during the shuttle, and the number of fish involved in each shuttle.
+2. Another behaviour was inhibition. Inhibition was how much a fish got stuck behind the barrier. Inhibition was used as a proxy for cognitive ability because smart fish learn to avoid the barrier, decreasing their inhibition.
+
+After collecting this behaviour data, we classified fish in each group as leaders or followers. Leaders were the fish that led the most shuttles in the group. The other two fish in the group were classified as the followers.
+
+## Results
+So after scoring hours and hours of video data until my eyes glazed over, I finally get to the exciting part, the results!
+
+First we compared the temperature preference, size, and boldness of leaders and followers. 
+
+{{< figure src="RSDplots1.png" caption="t-test, t = -0.47, -0.47, 1.68; p = 0.64, 0.64, 0.11; n = 16 leaders and n = 32 followers" >}}
+
+- You can see here that we plotted the distribution of temperature preference for leaders vs. followers, and you can see leaders and followers prefer similar temperatures.
+- Next, we compared sizes of leaders and followers. And there was no difference here either.
+- And here lastly compared the boldness of leaders versus followers. A little background about boldness, you can think of it like a measure of how brave the fish are, a personality trait. But in this case, it looks like fortune doesn’t favour the bold and there was no difference in boldness between leaders and followers. 
+
+Next we compared inhibition of leaders and followers over time.
+
+{{< figure src="RSDplots2.png" caption= "t-test; t = -0.67, -0.54, -2.39*; p = 0.51, 0.59, 0.025*, n = 16 leaders and n = 32 followers" >}}
+
+Although inhibition was not different between leaders and followers during the beginning and middle of the trial, if you have a good eye, you’ll catch that here, by the end of the trial, leaders had significantly lower inhibition than followers, which is really interesting!
+    
+Lastly, we compared the temperature preference of the leaders to the temperature preference of the whole group. We were interested to see whether the leader's temperature preference influence the temperature preference of the whole group, but it turns out these things were not related.
+
+{{< figure src="RSDplots3.png" caption="LM, R^2  = 0.12, p=0.20" >}}
+
+## Conclusions & Beyond...
+ 
+Overall, our results tell us that leaders were consistent over time and the behaviour of leaders is only different from followers in subtle ways. But one interesting finding was that leaders had lower inhibition by the end of the trial, which tells us that leaders have greater learning ability compared to followers! So based on these results, we think that cognitive ability may be an important part of leadership in fish. It kind of makes sense, the smart fish are leading the group, making all the right decisions. They help all the troopers survive.
+
+...But now let’s take a second to move away from fish, and think about people and the pandemic: is it also the smartest people leading our groups and making the right decisions for us? And is our leadership increasing or decreasing our fitness right now?
+
+If you’re thinking what I’m thinking, then I think we could all learn something from these fish.
+
+Questions about what makes a good leader are important. Not only because the redside dace are endangered, and leadership can influence their survival. But also because leaders in any group have a great impact, and understanding leaders helps us understand the whole group. If we want to learn anything about social dynamics and its role in fitness, we need to look at leaders. And we need to understand what makes them great.
