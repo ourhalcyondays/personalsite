@@ -259,4 +259,4 @@
 # Published with
 
 - id: published_with
-  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  translation: Made with ❤ using R {blogdown}, Hugo Academic, {repo_link}{wowchemy}{/repo_link}, and some imagination.

@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jessica Qiu # Website name
-baseurl: 'https://jessicaqiu.netlify.app/' # Website URL
-copyright: 'Made with ❤ using R {blogdown}, Hugo Academic, and some imagination.' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://jessicaqiu.me/' # Website URL
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
