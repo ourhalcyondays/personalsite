@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Every Moment in Life Has Equal Value.
 author: ''
 date: '2021-06-02'
