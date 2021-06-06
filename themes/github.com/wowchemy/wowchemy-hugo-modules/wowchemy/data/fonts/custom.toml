@@ -2,10 +2,10 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Inter:wght@400;700"
+google_fonts = "family=Catamaran:wght@400;700&family=Roboto+Mono&family=Inter:wght@400;700"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Catamaran"
 body_font = "Inter"
 nav_font = "Inter"
 mono_font = "Roboto Mono"
