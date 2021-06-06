@@ -13,7 +13,7 @@ links:
 - icon: home
   icon_pack: fas
   name: Home
-  url: https://jessicaqiu.netlify.app/
+  url: https://jessicaqiu.me/
 summary: I wanted to do 3 things during the summer of 2021; create a personal site, learn R, and begin a blog. This checked all the boxes! 
 tags:
 - R

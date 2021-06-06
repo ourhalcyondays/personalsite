@@ -13,7 +13,7 @@ highlight_name: false
 interests:
 - Researching the effects of metformin on zebrafish [@Wilson Lab](https://wilsontoxlab.ca/).
 - Creating this personal site using R.
-- Building my [second brain](https://fortelabs.co/blog/basboverview/).
+- Building my [second brain](https://maggieappleton.com/basb).
 - Catching up on reading.
 - Enjoying the sun!
 organizations:
