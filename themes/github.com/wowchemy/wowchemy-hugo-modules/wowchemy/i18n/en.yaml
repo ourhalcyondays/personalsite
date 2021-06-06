@@ -96,7 +96,7 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: Currently I Am...
 
 - id: education
   translation: Education

@@ -11,11 +11,11 @@ education:
 email: "qiuj22@mcmaster.ca"
 highlight_name: false
 interests:
-- Animal Behaviour
-- Neurobiology
-- Human Cognition
-- Personal Knowledge Management
-- Art & Design
+- Researching the effects of metformin on zebrafish [@Wilson Lab](https://wilsontoxlab.ca/).
+- Creating this personal site using R.
+- Building my [second brain](https://fortelabs.co/blog/basboverview/).
+- Catching up on reading.
+- Enjoying the sun!
 organizations:
 - name: McMaster University
   url: https://science.mcmaster.ca/pnb/
@@ -50,4 +50,4 @@ I'm a third year student studying Psychology, Neuroscience & Behaviour at McMast
 
 When I'm not busy hustling as a student, you can find me tinkering away on R, Blender, and Photoshop CC. Did I mention I like making stuff?
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
