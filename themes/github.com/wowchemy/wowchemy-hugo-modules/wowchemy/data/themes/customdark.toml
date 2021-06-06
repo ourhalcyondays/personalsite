@@ -14,5 +14,6 @@ menu_text_active = "rgba(255,255,255,0.6)"
 menu_title = "#fff"
 
 # Home sections
+background = "hsla(0,0%,10%,1)"
 home_section_odd = "hsla(0,0%,10%,1)"
 home_section_even = "hsla(0,0%,15%,1)"
