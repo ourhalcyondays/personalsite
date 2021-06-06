@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-06-02T10:24:41-04:00'
+# lastmod: '2021-06-02T10:24:41-04:00'
 featured: no
 image:
   caption: ''
@@ -17,8 +17,6 @@ image:
 projects: []
 share: false
 ---
-
-{{< toc >}}
 
 #### Okay, I’ll level with you. 
 
@@ -34,6 +32,8 @@ A good system is bulletproof and maintains itself. If your system requires you t
 Wow, right?
 
 Here’s what my system looks like, and I’ll also introduce the tools I use along the way.
+
+{{< toc >}}
 
 ## I. INBOX (ft. Notion)
 
