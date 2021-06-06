@@ -1,5 +1,5 @@
 ---
-bio: Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. I am passionate about making stuff and learning new skills.
+bio: Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. She is passionate about making stuff and learning new skills.
 education:
   courses:
   - course: BSc. in Psychology, Neuroscience & Behaviour

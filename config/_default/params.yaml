@@ -5,10 +5,12 @@
 
 # Appearance
 
-theme: custom
+theme: customdark
 day_night: true
 font: 'custom'
-font_size: M
+font_size: Mrstudioapi::navigateToFile("config/_default/params.yaml")
+
+
 
 # SEO
 
