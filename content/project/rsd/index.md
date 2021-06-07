@@ -13,7 +13,7 @@ links:
 - icon: file-image
   icon_pack: fas
   name: Poster
-  url: https://drive.google.com/file/d/1ZVkMV1Jf_HUgOYHp5n7IqyTePjU7_h48/view?usp=sharing
+  url: https://drive.google.com/file/d/1SRaFvVckpJWQ_tPyrwycQvgXq2r5-k1H/view?usp=sharing
 - icon: brain
   icon_pack: fas
   name: AOPUTC

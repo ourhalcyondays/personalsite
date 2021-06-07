@@ -94,7 +94,7 @@ If you want to take scheduling one step further, I have another science-backed t
 
 This means that the average person will peak in the morning around 9:00am, decrease in performance until they hit their low at 3:00pm, and then rebound to reach another (smaller) peak in the evening, around 7:00pm. What does this mean for timeboxing? It means I schedule more work in the mornings when I know my performance is best, timebox less taxing work in the evenings, and take breaks during my low period when I need them most.
 
-If you like this type of efficient planning, I've got one last tip for you. It's been shown that there are also ideal times to do each TYPE of work throughout the day. It turns out **analytical** work is best done in the mornings when people are at their peak. In contrast, **creative work** is best done when people are NOT at their peak. This means I would often aim to schedule math review in the morning BUT writing assignments in the evening, when possible.
+If you like this type of efficient planning, I've got one last tip for you. It's been shown that there are also ideal times to do each TYPE of work throughout the day. It turns out **analytical work** is best done in the mornings when people are at their peak. In contrast, **creative work** is best done when people are NOT at their peak. This means I would often aim to schedule math review in the morning BUT writing assignments in the evening, when possible.
 
 {{< figure src="4BlogGraph2.png" caption="" >}}
 
