@@ -5,7 +5,7 @@ name = "Custom"
 google_fonts = "family=Mulish:wght@400;800&family=Roboto+Mono&family=Inter:wght@400;700"
 
 # Font families
-heading_font = "Mulish"
+heading_font = "Inter"
 body_font = "Inter"
 nav_font = "Inter"
 mono_font = "Roboto Mono"
