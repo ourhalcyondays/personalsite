@@ -9,19 +9,9 @@ h1 {
     font-weight:700 !important;
 }
 
-a:hover, a:focus{
-    color:#313131;
-    font-size: 1.3rem !important;
-}
-
-a:hover {
-    color:#313131;
-    font-size: 1.3rem !important;
-}
-
-
 
 #projects
+
 .btn-toolbar {
     justify-content: center;
 }
@@ -33,4 +23,11 @@ a:hover {
     flex-wrap: wrap;
     justify-content: flex-start;
 }
+
+.btn-outline-primary {
+    color: #198e9e;
+    border-color: #198e9e;
+}
+
+
 
