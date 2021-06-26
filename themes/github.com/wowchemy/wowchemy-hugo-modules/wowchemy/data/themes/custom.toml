@@ -2,7 +2,7 @@
 name = "Custom"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#699dab"
@@ -14,10 +14,10 @@ menu_text_active = "#2b2b2b"
 menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(232, 242, 242)"
+home_section_odd = "rgb(18, 18, 18)"
+home_section_even = "rgb(36, 36, 36)"
 
 [dark]
- link = "#abdeeb"
- link_hover = "#abdeeb"
+ link = "#699dab"
+ link_hover = "#699dab"
 
