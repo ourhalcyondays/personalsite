@@ -34,11 +34,11 @@ share: false
 
 ## Introduction & Background
 
-So it may not surprise you that there is **power in numbers**. Animals understand this very well. Wolves, penguins, fish; all these animals survive better by living in groups.
+There is **power in numbers**. And no one understands strength in numbers better than the happy residents of the animal kingdom. This is why so many animals survive better by living in groups; wolves, penguins, fish to name just a few.
     
-But one limitation of living in a group is that there’s a LOT of coordination involved. Animals need to collectively decide where to go, what to eat, and how to act. It is not surprising then, that some individuals in the group often emerge as leaders to help coordinate.
+But one limitation of living in a group is that there is a LOT of coordination involved. Animals need to collectively decide where to go, what to eat, and how to act. It is not surprising then, that some individuals in the group often emerge as leaders to help coordinate.
     
-However, the factors that determine WHO the leader is in an animal group are not well understood. So for our experiment, we examined leadership behaviour in the redside dace, a species of group-living fish really sensitive to temperature. We wanted to know whether factors like temperature preference, body size, boldness, or cognitive ability predicted leadership in fish. And to see whether leaders were consistent over time. In other words, who calls the shots in a group? And what makes these individuals leadership material?
+However, the factors that determine WHO the leader is in an animal group are not well understood. So for this experiment, we examined leadership behaviour in the redside dace, a species of group-living fish that are really sensitive to temperature. We wanted to know whether factors like temperature preference, body size, boldness, or cognitive ability predicted leadership in fish. And to see whether leaders were consistent over time. In other words, who calls the shots in a group? And what makes these individuals leadership material?
 
 ## Methods
 
@@ -46,14 +46,14 @@ To test this, we placed groups of 3 fish inside a shuttlebox setup made of two t
 
 {{< figure src="Shuttlebox.png" caption="Shuttlebox apparatus." >}}
 
-There was a temperature difference of 2 degrees between the two sides of the shuttlebox, and because the fish are sensitive to temperature, they would move between the two sides to set their preferred temperature. We also put clear barriers on both sides of the shuttlebox neck, which the fish had to swim AROUND to get to the other side. And our trusty camera on top recorded fish activity throughout the 8h trials.
+A temperature difference of 2 degrees existed between the two sides of the shuttlebox. Since the fish are sensitive to temperature, they would between the two sides to set their preferred temperature. We also put clear barriers on both sides of the shuttlebox neck, which the fish had to swim AROUND to get to the other side. Lastly, our trusty camera on top recorded fish activity throughout the 8h trials.
 
 
  Now we’re armed with our video data, but which fish behaviours were actually important to track? We measured 2 important types of behaviours: shuttling and inhibition.
- 1. First, shuttling was when fish swam from one side of the shuttlebox to the other side, and we recorded the number of times the fish shuttled, the position of each fish during the shuttle, and the number of fish involved in each shuttle.
-2. Another behaviour was inhibition. Inhibition was how much a fish got stuck behind the barrier. Inhibition was used as a proxy for cognitive ability because smart fish learn to avoid the barrier, decreasing their inhibition.
+ 1. First, **shuttling** was when fish swam from one side of the shuttlebox to the other side, and we recorded the number of times the fish shuttled, the position of each fish during the shuttle, and the number of fish involved in each shuttle.
+2. Another behaviour was **inhibition**. Inhibition was how much a fish got stuck behind the barrier. Inhibition was used as a proxy for cognitive ability because smart fish learn to avoid the barrier, decreasing their inhibition.
 
-After collecting this behaviour data, we classified fish in each group as leaders or followers. Leaders were the fish that led the most shuttles in the group. The other two fish in the group were classified as the followers.
+After collecting this behaviour data, I classified fish in each group as either **leaders** or **followers**. Leaders were the fish that led the most shuttles in the group. The other two fish in the group were classified as the followers.
 
 ## Results
 So after scoring hours and hours of video data until my eyes glazed over, I finally get to the exciting part, the results!
