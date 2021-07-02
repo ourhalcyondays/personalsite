@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Let's Connect.
+title: ✉️ Let's Connect.
 subtitle: If you have questions about my work or an opportunity you think I would be interested in, please reach out!
 
 content:
