@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Blog
-subtitle:
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...

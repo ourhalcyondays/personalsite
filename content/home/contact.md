@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
-subtitle:
+title: Let's Connect.
+subtitle: If you have questions about my work or an opportunity you think I would be interested in, please reach out!
 
 content:
   # Automatically link email and phone or display as text?

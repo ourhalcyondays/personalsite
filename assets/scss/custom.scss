@@ -1,12 +1,17 @@
 h3 {
     font-weight:400 !important;
 }
+
 h2 {
     font-weight:700 !important;
 }
 
 h1 {
     font-weight:700 !important;
+}
+
+p.mt-1 {
+    font-size: 1rem;
 }
 
 #projects
@@ -23,6 +28,40 @@ h1 {
     justify-content: flex-start;
 }
 
+/*----NAV LINK HOVER ANIMATION -----*/
+
+.nav-link:hover {
+  color: black !important;
+}
 
 
+/* stroke */
 
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all .5s;
+}
+
+a.nav-link {
+  position: relative;
+}
+
+a.nav-link:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.'; /* make invisible, dot beneath links */
+  color: transparent;
+  background: #58a8a5;
+  height: 2px;
+}
+
+a.nav-link:hover:after {
+  width: 70%;
+}
+
+/*----------------------------------*/
