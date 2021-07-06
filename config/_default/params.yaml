@@ -61,7 +61,7 @@ phone: (647) 782-1888
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: false
