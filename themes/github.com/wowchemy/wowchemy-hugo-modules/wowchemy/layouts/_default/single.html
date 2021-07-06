@@ -10,6 +10,34 @@
     {{ partial "page_footer" . }}
   </div>
 </article>
+
+writeLines(
+  text = c(
+    '<article class="article">',
+    '  {{ partial "page_header" . }}',
+    '  <div class="article-container">',
+    '    <div class="row">',
+    '      <div class="col-12 col-lg-9 article-style">',
+    '        {{ .Content }}',
+    '      </div>',
+    '      <div class="col-12 col-lg-3 docs-toc">',
+    '        <ul class="nav toc-top">',
+    '          <li>',
+    '            <a href="#" id="back_to_top" class="docs-toc-title">',
+    '              {{ i18n "on_this_page" }}',
+    '            </a>',
+    '          </li>',
+    '        </ul>',
+    '        {{ .TableOfContents }}',
+    '      </div>',
+    '    </div>',
+    '    {{ partial "page_footer" . }}',
+    '  </div>',
+    '</article>',
+  ), 
+  con = "layouts/_default/single.html"
+)
+
 {{- end -}}
 
 

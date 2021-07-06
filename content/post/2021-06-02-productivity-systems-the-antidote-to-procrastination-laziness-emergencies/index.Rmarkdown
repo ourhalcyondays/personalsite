@@ -2,7 +2,9 @@
 title: 'Productivity Systems: The Antidote to Procrastination, Laziness & Emergencies.'
 author: 'Jessica Qiu'
 date: '2021-06-02'
-toc: true
+output:
+  blogdown::html_page:
+    toc: true
 slug: productivity-systems
 categories: []
 tags: [Productivity, Workflow]
