@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
   preview: true
-  preview_only: true
+  preview_only: false
 header:
   image: ""
   caption: ""
@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Portfolio
   url: https://jessicaqiu.myportfolio.com/pokedata
-summary: I wanted to do 3 things during the summer of 2021; create a personal site, learn R, and begin a blog. This checked all the boxes! 
+summary: So you’ve caught 'em all. Now what? Now, we plot of course! A Data Visualization Experiment using a Pokémon dataset.
 tags:
 - R
 - Data Visualization
@@ -29,10 +29,21 @@ share: false
 
 {{< toc >}}
 
-## 💡 Foreward: About This Project
+## 💡 I. Introduction
+
+I have proven what Pokémon nerds have suspected all along:
+
+**Not all Pokémon are created equal.** But how unequal are things in the Pokémon world? It's time to find out.
+
+The three most basic indicators of a Pokémon's strength are its attack power, defensive power, and HP (health points). Taking data from [this dataset](https://www.kaggle.com/rounakbanik/pokemon), I broke down Pokémon by their primary types (I chose water, fire, grass and electric). Then, it was time to 
+
+The goals of this project were to learn how to create bubble plots in R and dip my toes in data visualization.
+
+## 📊 II. Pokédata Findings
+
+## 🔎 III. Showcase
 
 {{< figure src="Pokedata Cover.png" caption="" >}}
-
 {{< figure src="WaterPokemonBubblePlot2.png" caption="" >}}
 {{< figure src="ElectricPokemonBubblePlot2.png" caption="" >}}
 {{< figure src="FirePokemonBubblePlot2.png" caption="" >}}
@@ -41,9 +52,10 @@ share: false
 View the full project showcase here or at my [portfolio](https://jessicaqiu.myportfolio.com/pokedata)!
 {{< figure src="Pokedata.png" caption="" >}}
 
-## 💻 R Code ft. {showtext} & {extrafont} Packages
+## 💻 IV. The R Code 
 
-Interested in viewing the code? Check it out here.
+Interested in viewing the code? Check it out here. To get custom fonts "Bebas" and "Titillium Web" into R, I used the {showtext} & {extrafont} packages.
+
 
 ```
 #Import custom fonts
