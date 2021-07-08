@@ -1,5 +1,5 @@
 ---
-date: "2021-05-27T00:00:00Z"
+date: "2021-06-02T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -33,17 +33,19 @@ share: false
 
 I have proven what Pokémon nerds have suspected all along:
 
-**Not all Pokémon are created equal.** But how unequal are things in the Pokémon world? It's time to find out.
+**Not all Pokémon are created equal.** But exactly how unequal are things in the Pokémon world?
 
-The three most basic indicators of a Pokémon's strength are its attack power, defensive power, and HP (health points). Taking data from [this dataset](https://www.kaggle.com/rounakbanik/pokemon), I broke down Pokémon by their primary types (I chose water, fire, grass and electric). Then, it was time to 
+To find out, I compared the three most basic indicators of a Pokémon's strength; attack power, defensive power, and HP (health points). Taking data from [this dataset](https://www.kaggle.com/rounakbanik/pokemon), I broke down Pokémon by their primary types (water, fire, grass and electric). Then, it was time to plot.
 
-The goals of this project were to learn how to create bubble plots in R and dip my toes in data visualization.
+
+The goals of this project were to learn how to create bubble plots in R using base functions and to dip my toes into data visualization!
+
+{{< figure src="Pokedata Cover.png" caption="" >}}
 
 ## 📊 II. Pokédata Findings
 
-## 🔎 III. Showcase
+I decided to make **bubble plots** to compare Pokémon stats. Bubble plots are scatterplots on steroids. They are interesting because they easily convey information on three dimensions. Besides the normal x-axis and y-axis dimensions, they can also represent data through the size of the point, or bubble.
 
-{{< figure src="Pokedata Cover.png" caption="" >}}
 {{< figure src="WaterPokemonBubblePlot2.png" caption="" >}}
 {{< figure src="ElectricPokemonBubblePlot2.png" caption="" >}}
 {{< figure src="FirePokemonBubblePlot2.png" caption="" >}}
@@ -52,7 +54,7 @@ The goals of this project were to learn how to create bubble plots in R and dip 
 View the full project showcase here or at my [portfolio](https://jessicaqiu.myportfolio.com/pokedata)!
 {{< figure src="Pokedata.png" caption="" >}}
 
-## 💻 IV. The R Code 
+## 💻 III. Poké R Code 
 
 Interested in viewing the code? Check it out here. To get custom fonts "Bebas" and "Titillium Web" into R, I used the {showtext} & {extrafont} packages.
 
@@ -195,3 +197,5 @@ text(firepokemon$attack, firepokemon$defense, firepokemon$name,
 showtext_end()
 dev.off()
 ```
+
+## 💭 IV. Closing Thoughts
