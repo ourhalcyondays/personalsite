@@ -76,7 +76,7 @@ As Mario continues his journey, he gets a little distracted...by gold! There see
 
 ...which is a very awkward line with strange angles, he should follow this path:
 
-{{< figure src="Slide8.2.png" caption="" >}}
+{{< figure src="Slide8.2.jpg" caption="" >}}
 
 ...which is made of a nice nice continuous line that is very simple and doesn’t have awkward angles. Continuity principle allows Mario to *see simple forms instead of complicated ones*. This is important because it allows him to understand complex, overlapping forms more easily.
 
