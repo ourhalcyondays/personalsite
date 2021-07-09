@@ -1,5 +1,5 @@
 ---
-date: "2021-06-02T00:00:00Z"
+date: "2021-07-08T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -10,10 +10,10 @@ header:
   image: ""
   caption: ""
 links:
-- icon: palette
+- icon: images
   icon_pack: fas
-  name: Portfolio
-  url: https://jessicaqiu.myportfolio.com/pokedata
+  name: Showcase
+  url: https://drive.google.com/file/d/1B8QKEv7qYHDjeFvE7utj7S78SUMZ5vzz/view?usp=sharing
 summary: So you’ve caught 'em all. Now what? Now, we plot of course! A Data Visualization Experiment using a Pokémon dataset.
 tags:
 - R
@@ -38,11 +38,9 @@ I have proven what Pokémon nerds have suspected all along:
 To find out, I compared the three most basic indicators of a Pokémon's strength; attack power, defensive power, and HP (health points). Taking data from [this dataset](https://www.kaggle.com/rounakbanik/pokemon), I broke down Pokémon by their primary types (water, fire, grass and electric). Then, it was time to plot.
 
 
-The goals of this project were to learn how to create bubble plots in R using base functions and to dip my toes into data visualization!
 
 {{< figure src="Pokedata Cover.png" caption="" >}}
 
-## 📊 II. Pokédata Findings
 
 I decided to make **bubble plots** to compare Pokémon stats. Bubble plots are scatterplots on steroids. They are interesting because they easily convey information on three dimensions. Besides the normal x-axis and y-axis dimensions, they can also represent data through the size of the point, or bubble.
 
@@ -51,8 +49,10 @@ I decided to make **bubble plots** to compare Pokémon stats. Bubble plots are s
 {{< figure src="FirePokemonBubblePlot2.png" caption="" >}}
 {{< figure src="GrassPokemonBubblePlot2.png" caption="" >}}
 
-View the full project showcase here or at my [portfolio](https://jessicaqiu.myportfolio.com/pokedata)!
+View the full project showcase [here](https://drive.google.com/file/d/1B8QKEv7qYHDjeFvE7utj7S78SUMZ5vzz/view?usp=sharing)!
 {{< figure src="Pokedata.png" caption="" >}}
+
+## 📊 II. Pokédata Findings
 
 ## 💻 III. Poké R Code 
 
@@ -199,3 +199,5 @@ dev.off()
 ```
 
 ## 💭 IV. Closing Thoughts
+
+The goals of this project were to learn how to create bubble plots in R using base functions and to dip my toes into data visualization!
