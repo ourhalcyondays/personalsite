@@ -1,5 +1,5 @@
 ---
-date: "2019-06-27T00:00:00Z"
+date: "2019-04-27T00:00:00Z"
 external_link: "https://jessicaqiu.myportfolio.com/connectus-ui"
 image:
   caption: 
@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Portfolio
   url: https://jessicaqiu.myportfolio.com/connectus-ui
-summary: A complete website ui/ux design for connectUS.today. Includes landing page, onboarding pages, profile, settings and more! 
+summary: A complete website ui/ux design for connectUS.today.
 
 tags:
 - Graphic Design

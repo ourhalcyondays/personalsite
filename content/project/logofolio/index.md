@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Portfolio
   url: https://jessicaqiu.myportfolio.com/logofolio
-summary: Logofolio, my portfolio for logos! Explore my showcase of logos designed for companies, organizations, clubs, and contests!
+summary: Logofolio, my portfolio for logos! Explore logos designed for companies, organizations, clubs, and contests!
 tags:
 - Graphic Design
 - Branding

@@ -1,5 +1,5 @@
 ---
-date: "2021-02-27T00:00:00Z"
+date: "2021-02-07T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -29,9 +29,9 @@ share: false
 
 {{< toc >}}
 
-## 💡️ Foreword: About This Project
+## 📚️ I .Introduction
 
-## 🎲 The Great Gestalt Rescue
+## 🗺️ II. The Great Gestalt Rescue
 
 To start off, I want you to meet my friend Mario!
 
@@ -56,19 +56,19 @@ So let’s enter Mario’s world together and see how Mario uses the Gestalt Pri
 
 {{< figure src="Slide5.jpg" caption="Entering Mario's world..." >}}
 
-### I. Figure-Ground Separation
+#### I. Figure-Ground Separation
 
 First up, Mario needs a power up! Luckily, Mario knows exactly how to find himself a super mushroom to make him stronger. Using the principle of **Figure-Ground Separation**, Mario can distinguish objects from the background. He is able to see “object-like” features in forms that are supposed to be objects. For example, the super mushroom has black borders and other colour patterns that make it distinct from the sky. Figure-Group Separation allows Mario to view objects as *separate from the background*, which is one way he can see depth.
 
 {{< figure src="Slide6.jpg" caption="" >}}
 
-### II. Proximity
+#### II. Proximity
 
 Next, it was a good thing Mario got a power up first, because it looks like trouble is coming! He sees some evil Goomba creatures, and there are too many to keep track of! But don’t worry, Mario can use the **Gestalt Principle of Proximity** to help him. When objects are not evenly spread out, and instead are packed more closely in some places, they are easily grouped together. So Mario groups the Goomba in front of him as one enemy group and the Goomba on top of the bricks as another enemy group. Now he knows there are 2 main groups of enemies to fight, which is much better than 5. Proximity principle helps Mario *simplify* any stimuli that are overwhelming in number. Now that's a good strategy!
 
 {{< figure src="Slide7.jpg" caption="" >}}
 
-### III. Continuity
+#### III. Continuity
 
 As Mario continues his journey, he gets a little distracted...by gold! There seem to be lots of coins for him to grab, but he wants to do this in the most efficient way possible so he can get back to rescuing Luigi. By following the **Gestalt Principle of Continuity**, he knows that instead of following this path...
 
@@ -80,19 +80,19 @@ As Mario continues his journey, he gets a little distracted...by gold! There see
 
 ...which is made of a nice nice continuous line that is very simple and doesn’t have awkward angles. Continuity principle allows Mario to *see simple forms instead of complicated ones*. This is important because it allows him to understand complex, overlapping forms more easily.
 
-### IV. Common Fate
+#### IV. Common Fate
 
 Now a rich man, Mario returns to his rescue mission. Unluckily, there are more enemies waiting for him! This time, the enemy is even camouflaged, the green leaves of the piranha plant blend with the green colour of the pipe. Fortunately, the **Gestalt Principle of Common Fate** tells Mario that objects that move together should be grouped together. In this case, Mario can see that the piranha plant moves up and down whereas the pipe remains still. The contrast between the still pipe and moving plant makes the plant distinct! Common Fate principle groups objects that move in together in the same direction or at the same time. This way, these objects can be identified as separate.
 
 {{< figure src="Slide9.jpg" caption="" >}}
 
-### V. Similarity
+#### V. Similarity
 
 With another enemy creature defeated, Mario returns to his mission. He comes across some interesting blocks. But how does he know which blocks are important? He uses the **Gestalt Principle of Similarity** to group together objects that are similar in some way. For example, the yellow blocks are different from these brown blocks by colour and pattern, so Mario knows to group them together. By using Similarity principle, Mario can group objects by colour, pattern, size, orientation, shape, or any other characteristic you can think of. And after checking out these mystery blocks Mario’s has grouped together, it seems like Mario has become an even richer man, and also found a key!
 
 {{< figure src="Slide10.jpg" caption="" >}}
 
-### VI. Closure
+#### VI. Closure
 
 Armed with a key, Mario marches onward...and look! It looks like he’s found a mysterious door. Could this be where Luigi is trapped? To find out, he needs to insert the key on top of the door. How does he know this you ask? Well, Mario uses the **Gestalt Principle of Closure** to see that the black dots above the door are not just random individual dots. He fills in the spaces between the dots to perceive the shape of a key! The Closure principle helps him fill in the gaps in his visual knowledge so he can make sense of what he sees even when he’s missing information.
 
@@ -106,7 +106,7 @@ and he and Luigi are happily reunited! Woohoo!
 
 {{< figure src="Slide13.jpg" caption="" >}}
 
-## 🗺️ Beyond Mario's World...
+## 🏙️ III. Beyond Mario's World...
 
 Up until now, we’ve been following how Mario uses the Gestalt Principles to navigate HIS complex universe. But it turns out Mario is not the only one with these superpowers.
 

@@ -18,7 +18,7 @@ links:
   icon_pack: fas
   name: AOPUTC
   url: https://science.mcmaster.ca/pnb/news-events/aoputc.html
-summary: Learn more about my project on leadership behaviour in redside dace! This research was completed as part of a 2QQ3 Independent Research Practicuum and presented at the Annual Ontario Psychology Undergraduate Thesis Conference.
+summary: My research on leadership behaviour in redside dace! This project was completed for PNB 2QQ3 and presented at the AOPUTC Conference.
 tags:
 - Research
 - Animal Behaviour
