@@ -38,7 +38,7 @@ I have proven what Pokémon nerds have suspected all along:
 To find out, I compared the three most basic indicators of a Pokémon's strength; attack power, defensive power, and HP (health points). Taking data from [this dataset](https://www.kaggle.com/rounakbanik/pokemon), I broke down Pokémon by their primary types (water, fire, grass and electric). Then, it was time to plot.
 
 
-{{< figure src="Pokedata Process.png" caption="Plots were created in R using the base symbols() function (Steps 1-3). After much fiddling, I move the plot to Photoshop for some extra visual power (Steps 4-6)." >}}
+{{< figure src="Pokedata Process.png" caption="Plots were created in R using the base symbols() function (Steps 1-3). After much fiddling, I moved the plot to Photoshop for some extra visual power (Steps 4-6)." >}}
 
 ## 📊 II. Pokédata Plotting & Insights
 
