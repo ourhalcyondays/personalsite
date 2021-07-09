@@ -60,7 +60,7 @@ So let’s enter Mario’s world together and see how Mario uses the Gestalt Pri
 
 First up, Mario needs a power up! Luckily, Mario knows exactly how to find himself a super mushroom to make him stronger. Using the principle of **Figure-Ground Separation**, Mario can distinguish objects from the background. He is able to see “object-like” features in forms that are supposed to be objects. For example, the super mushroom has black borders and other colour patterns that make it distinct from the sky. Figure-Group Separation allows Mario to view objects as *separate from the background*, which is one way he can see depth.
 
-{{< figure src="Slide6.png" caption="" >}}
+{{< figure src="Slide6.jpg" caption="" >}}
 
 ### II. Proximity
 
@@ -76,7 +76,7 @@ As Mario continues his journey, he gets a little distracted...by gold! There see
 
 ...which is a very awkward line with strange angles, he should follow this path:
 
-{{< figure src="Slide8.2.jpg" caption="" >}}
+{{< figure src="Slide8.2.png" caption="" >}}
 
 ...which is made of a nice nice continuous line that is very simple and doesn’t have awkward angles. Continuity principle allows Mario to *see simple forms instead of complicated ones*. This is important because it allows him to understand complex, overlapping forms more easily.
 
