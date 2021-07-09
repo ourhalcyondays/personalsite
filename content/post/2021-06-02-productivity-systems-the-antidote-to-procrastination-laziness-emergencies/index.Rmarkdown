@@ -19,6 +19,9 @@ image:
   preview_only: true
 projects: []
 share: false
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 #### Okay, I’ll level with you. 
