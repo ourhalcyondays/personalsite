@@ -118,19 +118,19 @@ These Gestalt Principles of **Proximity**, **Similarity**, **Figure-Ground Separ
 
 But **why** is it important for us to organize visual input in the first place? Well, compared to Mario’s World, our world is even more complicated. For instance, here’s an example from our world.
 
-{{< figure src="Slide15.png" caption="" >}}
+{{< figure src="Slide15.jpg" caption="" >}}
 
 You all might've seen this famous Beatles album cover once or twice, or maybe closer to a million times.
 
 What you might have not noticed is that there is actually a LOT going on in this photo: cars, trees, buildings, people. And if you think about it, all this visual input we see is actually just billions of dots in patterns.
 
-{{< figure src="Slide16.png" caption="" >}}
+{{< figure src="Slide16.jpg" caption="" >}}
 
 Creating forms from all the complicated dots that we see would normally be difficult and overwhelming.
 
 But because we can easily organize these dots, none of us think that this picture is difficult to interpret. We use Similarity principle to group the cars together by function. Figure-Ground Separation tells us that the trees are part of the background. And although the crosswalk is missing lines that go all the way from left to right, we can fill in empty space to understand where the crosswalk should be so we know the Beatles are not jaywalking.
 
-{{< figure src="Slide17.png" caption="" >}}
+{{< figure src="Slide17.jpg" caption="" >}}
 
 All of this helps us better perceive and understand the world around us! And amazingly, we apply all these Gestalt Principles automatically, we don’t even think about it!
 
@@ -140,10 +140,10 @@ Moving beyond the automatic individual level, many industries deliberately use G
 - Figure-Ground Separation makes the fascinating Human Pillar Illusion work. 
 - And Gestalt Principles even find their impact on the things like the Connect4 Games of our youth.
 
-{{< figure src="Slide18.png" caption="" >}}
+{{< figure src="Slide18.jpg" caption="" >}}
 
 So whether you are Mario getting rich in Mario’s World or crossing Abbey Road in our world, the Gestalt Principles will help you organize and understand the amazing things in the universe around you.
 
-{{< figure src="Slide19.png" caption="" >}}
+{{< figure src="Slide19.jpg" caption="" >}}
 
 **Thank you for joining us on the Great Gestalt Rescue!** I hope you enjoyed adventuring with Mario and learned a little introductory psychology on the way! Until next time!
