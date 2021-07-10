@@ -19,8 +19,6 @@ share: false
 toc: true
 ---
 
-{{< toc >}}
-
 #### Okay, I’ll level with you. 
 
 No productivity tool, app or gizmo will fix your work ethic if it sucks.
