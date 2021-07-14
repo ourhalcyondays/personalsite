@@ -52,4 +52,4 @@ I'm a third year student studying Psychology, Neuroscience & Behaviour at McMast
 
 When I'm not busy hustling as a student, you can find me tinkering away on R, Blender, and Photoshop CC. Did I mention I like making stuff?
 
-{{< icon name="file-alt" pack="fas" >}} Have a look at my complete {{< staticref "uploads/CV.pdf" "newtab" >}} CV{{< /staticref >}}.
+{{< icon name="file-alt" pack="fas" >}}Have a look at my complete {{< staticref "uploads/CV.pdf" "newtab" >}} CV{{< /staticref >}}.

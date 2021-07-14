@@ -18,7 +18,7 @@ links:
   icon_pack: fas
   name: LEAP
   url: https://www.leapcanada.org/
-summary: A full series of branding and marketing materials produced for LEAP Canada from scratch!
+summary: Branding and marketing materials produced for LEAP Canada.
 tags:
 - Graphic Design
 - Branding

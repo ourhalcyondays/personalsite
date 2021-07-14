@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: ReTO
   url: https://www.instagram.com/recollectiontoronto/
-summary: Koi is apparel branding done for RecollectionToronto as part of their series of designs by youth artists.
+summary: Koi (鯉) is apparel branding done for RecollectionTO.
 tags:
 - Graphic Design
 - Branding

@@ -18,7 +18,7 @@ links:
   icon_pack: fas
   name: Slides
   url: https://drive.google.com/file/d/16052ZLe8rWaRHaIQciCjy8xOzbXYduGj/view?usp=sharing
-summary: Something is rotten in the state of Denmark! A video project on the themes of Order and Chaos in Hamlet. Completed for ENG 4U1.
+summary: A video project on the themes of Order and Chaos in Hamlet.
 tags:
 - Hamlet
 - English Literature

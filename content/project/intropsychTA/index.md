@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Slides
   url: https://drive.google.com/file/d/1z991StFBMZxDf6GYAPpa_QLbDHyM75di/view?usp=sharing
-summary: Luigi's been kidnapped! Join Mario on his great rescue mission and learn about the psychology behind the Gestalt Principles while Mario saves Luigi.
+summary: Luigi's been kidnapped! Join Mario on his great rescue mission and and learn about the psychology behind the Gestalt Principles along the way.
 tags:
 - Psychology
 - Teaching
