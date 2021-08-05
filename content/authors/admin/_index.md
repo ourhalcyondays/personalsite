@@ -48,8 +48,8 @@ title: Jessica Qiu
 
 [Site is under construction! 🚧]
 
-I am passionate about making stuff and learning new skills. Currently, I'm focused on further improving my research skills—I am especially drawn to research that has implications for improving people's lives and the earth we share.
+I am passionate about learning new skills. Currently, I'm focused on further improving my research skills—I am especially drawn to research that has implications for improving people's lives and the earth we share.
 
-When I'm not busy hustling as a student, you can find me tinkering away on R, Blender, and Photoshop CC. Did I mention I like making stuff?
+When I'm not busy hustling as a student, you can find me tinkering away on R, Blender, and Photoshop CC...Did I mention I like learning things?
 
-{{< icon name="file-alt" pack="fas" >}}Have a look at my complete {{< staticref "uploads/CV.pdf" "newtab" >}} CV{{< /staticref >}}.
+{{< icon name="file-alt" pack="fas" >}}Have a look at my complete {{< staticref "uploads/CV.pdf" "newtab" >}} résumé/CV{{< /staticref >}}.

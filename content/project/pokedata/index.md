@@ -19,7 +19,7 @@ tags:
 - R
 - Data Visualization
 - Pokémon
-title: Gotta Catch 'Em All (Pokémon Data Visualization in R)
+title: Gotta Plot 'Em All (Pokémon Data Visualization in R)
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -120,7 +120,7 @@ So were there any trends? Is there a terrible inequality to be found in the Pok�
 
 {{< figure src="WaterPokemonBubblePlot2.png" caption="" >}}
 
-- Water Pokémon seem to follow a fairly strong positive correlation between attack and defense stats. Unsurprsingly, Pokémon like **Gyrados** and **Swampert** who are known to be powerful attackers, are also strong defenders.
+- Water Pokémon seem to follow a fairly strong positive correlation between attack and defense stats. Unsurprisingly, Pokémon like **Gyrados** and **Swampert** who are known to be powerful attackers, are also strong defenders.
 - A notable outlier is **Pyukumuku**, a newly introduced Pokémon from Generation 7 that has average attack stats, but ranks in the top percent of defensive Pokémon! What a curious fellow.
 - In terms of HP, it doesn't come as a surprise that **Wailord** has the biggest bubble. At 14.5m tall, it's the largest Pokémon found so far in the Pokémon world, so it makes sense that it has the resources to withstand damage.
 - **Magikarp** is another Pokémon to note. Although beloved by some, Magikarp is one of the most ridiculed Pokémon not only for it's dopey expression, but also because this Pokémon is laughably weak (anyone who plays Pokémon interally groans when they encounter a Magikarp...they're not even worth battling.) However, it looks like Magikarp is not really the weakest Pokémon around and doesn't deserve the disrespect. As the name suggests, **Feebas** is the feeblest Pokémon of 'em all, having both defensive and attack stats of less than 20!
@@ -131,6 +131,10 @@ So were there any trends? Is there a terrible inequality to be found in the Pok�
 #### ⚡ Electric Pokémon Insights
 
 {{< figure src="ElectricPokemonBubblePlot2.png" caption="" >}}
+
+- Electric-type Pokémon seem to be less tightly correlated in Defense and Attack compared to other types. One reason for this may be due to the sample size; there are relatively few electric-type Pokémon compared to other types ((only 61! compared to 144 water-types).
+
+- One interesting finding, is that Pichu (the pre-evolution of the very beloved Pikachu), has the lowest defense stats of any Pokémon graphed here!
 
 #### 🔥 Fire Pokémon Insights
 
