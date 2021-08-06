@@ -19,7 +19,7 @@ tags:
 - R
 - Data Visualization
 - Pokémon
-title: Gotta Plot 'Em All (Pokémon Data Visualization in R)
+title: Gotta Plot 'Em All (An R Experiment)
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,7 +29,15 @@ share: false
 
 {{< toc >}}
 
-## 💨 TL;DR
+## ABOUT: 
+
+**[Gotta Plot `Em All](https://drive.google.com/file/d/1B8QKEv7qYHDjeFvE7utj7S78SUMZ5vzz/view?usp=sharing)** is a project exploring Pokémon data using bubble plots. The goal of this project was to explore the power of visualizing data and to try creating more interesting plots in R with a fun dataset.
+
+- **I Learned How To**: use R base functions to create bubble plots, think about data trends, have some fun with data!
+- **Next I Want To**: learn to plot more complex figures using {ggplot2} in R, & try plotting **[raincloud plots](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/)**, as recommended by my statistics professor.
+<br/><br/>
+
+---
 
 ## 📚 I. Caught 'Em All (Introduction & Hypothesis)
 
@@ -151,9 +159,9 @@ So were there any trends? Is there a terrible inequality to be found in the Pok�
 
 ## 💭 IV. Closing Thoughts (Conclusions) 
 
-One limitation of this small project was that 
+One limitation of this small project was that I didn't have fine control over some aspects of the plot, such as the labels (which sometimes overlapped and created a cluttered, hard-to-read plot). I had to cheat a little to fix other things about the design in photoshop.
 
-That said, the goals of this project were to learn how to create bubble plots in R using base functions and to dip my toes into data visualization while having some fun! Indeed, I learned a lot about using the R base functions to plot. Next, I think I will explore more advanced data visualization using packages like ggplot2 to have finer control over the visual components and geoms of the plot. 
+That said, the goals of this project were to learn how to create bubble plots in R using base functions and to dip my toes into data visualization while having some fun! Indeed, I learned a lot about using the R base functions to plot. Next, I think I will explore more advanced data visualization using packages like ggplot2 to have more control over the visual components and geoms of the plot. Perhaps I'll get good enough to drop the Photoshop from the design process!
 
 View the full project showcase [here](https://drive.google.com/file/d/1B8QKEv7qYHDjeFvE7utj7S78SUMZ5vzz/view?usp=sharing)!
 {{< figure src="Pokedata Cover.png" caption="A sneak peek at the full showcase!" >}}

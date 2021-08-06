@@ -29,9 +29,17 @@ share: false
 
 {{< toc >}}
 
-## 📚️ I .Introduction
+## ABOUT:
 
-## 🗺️ II. The Great Gestalt Rescue
+**[The Great Gestalt Rescue](https://drive.google.com/file/d/1z991StFBMZxDf6GYAPpa_QLbDHyM75di/view)** is the presentation I gave for my PSYCH 1X03/1XX3 TA interview. The instructions were to prepare a "10 minute MacIntroPsych lesson with PowerPoint slides" on any topic from first year psychology. I decided to prepare my presentation on the Gestalt Principles, a set of laws of human perception that explain how people group, simplify, and perceive objects in the world around them. As a graphic designer in my downtime, this psychology topic was an obvious choice!
+
+- **I Learned How To**: teach with delight (the art historian Gustav Friedrich Waagen once said *"First delight, then instruct."*), be interviewed, & I also learned more about the Gestalt Principles myself!
+- **Next I Want To**: pass on my passion for psychology onto this new generation of first-year students (Hint: I got the job. 😉).
+<br/><br/>
+
+---
+
+## 🗺️ I. The Great Gestalt Rescue
 
 To start off, I want you to meet my friend Mario!
 
@@ -106,7 +114,7 @@ and he and Luigi are happily reunited! Woohoo!
 
 {{< figure src="Slide13.jpg" caption="" >}}
 
-## 🏙️ III. Beyond Mario's World...
+## 🚀️ II. Beyond Mario's World...
 
 Up until now, we’ve been following how Mario uses the Gestalt Principles to navigate HIS complex universe. But it turns out Mario is not the only one with these superpowers.
 

@@ -32,6 +32,16 @@ share: false
 ---
 {{< toc >}}
 
+## ABOUT:
+
+**[Simon Says: Leadership Behaviour in Redside Dace](https://drive.google.com/file/d/1SRaFvVckpJWQ_tPyrwycQvgXq2r5-k1H/view?usp=sharing)** is a research project completed for the course PNB 2QQ2 (Independent Research Practicuum) under the supervision of Dr. Sigal Balshine, Dr. Andy Turko, & Avani Pathak. Using Behavioral Observation Research Interactive Software (BORIS), I scored the behaviour of groups of redside dace to see whether factors like size, boldness, temperature preference, and inhibition (a proxy for cognitive ability) predicted leadership in fish. This project was presented at **[AOPUTC](https://science.mcmaster.ca/pnb/news-events/aoputc.html)** (Annual Ontario Psychology Undergraduate Thesis Conference) and placed top 10% out of 200+ thesis presentations.
+
+- **I Learned How To**: use BORIS software to collect data, create boxplots using base R functions, think about data, write an abstract, &  present scientific research.
+- **Next I Want To**: learn to create other types of plots in R (besides boxplots), research fish through a more integrative lens (through physiological, molecular, or genetic lens, not only behavioural).
+<br/><br/>
+
+---
+
 ## 📚 I. Introduction & Background
 
 There is **power in numbers**. And no one understands strength in numbers better than the happy residents of the animal kingdom. This is why so many animals live in groups; wolves, penguins, fish to name just a few.
