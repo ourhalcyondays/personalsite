@@ -19,7 +19,7 @@ tags:
 - Psychology
 - Teaching
 - Other
-title: The Great Gestalt Rescue (MacIntroPsych Interview Presentation)
+title: The Great Gestalt Rescue (TA Interview Presentation)
 url_code: ""
 url_pdf: ""
 url_slides: ""
