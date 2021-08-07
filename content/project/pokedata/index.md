@@ -33,8 +33,8 @@ share: false
 
 **[Gotta Plot `Em All](https://drive.google.com/file/d/1B8QKEv7qYHDjeFvE7utj7S78SUMZ5vzz/view?usp=sharing)** is a project exploring Pokémon data using bubble plots. The goal of this project was to explore the power of visualizing data and to try creating more interesting plots in R with a fun dataset.
 
-- **I Learned How To**: use R base functions to create bubble plots, think about data trends, have some fun with data!
-- **Next I Want To**: learn to plot more complex figures using {ggplot2} in R, & try plotting **[raincloud plots](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/)**, as recommended by my statistics professor.
+- **I Learned How To**: use R base functions to create bubble plots, think about data trends, and have some fun with data!
+- **Next I Want To**: learn to plot more complex figures using {ggplot2} in R, and try plotting **[raincloud plots](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/)**, as recommended by my statistics professor.
 <br/><br/>
 
 ---

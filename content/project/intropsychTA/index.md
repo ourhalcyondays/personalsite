@@ -31,10 +31,10 @@ share: false
 
 ## ABOUT:
 
-**[The Great Gestalt Rescue](https://drive.google.com/file/d/1z991StFBMZxDf6GYAPpa_QLbDHyM75di/view)** is the presentation I gave for my PSYCH 1X03/1XX3 TA interview. The instructions were to prepare a "10 minute MacIntroPsych lesson with PowerPoint slides" on any topic from first year psychology. I decided to prepare my presentation on the Gestalt Principles, a set of laws of human perception that explain how people group, simplify, and perceive objects in the world around them. As a graphic designer in my downtime, this psychology topic was an obvious choice!
+**[The Great Gestalt Rescue](https://drive.google.com/file/d/1z991StFBMZxDf6GYAPpa_QLbDHyM75di/view)** is the presentation I gave for my PSYCH 1X03/1XX3 TA interview. The instructions were to prepare a "10 minute MacIntroPsych lesson with PowerPoint slides" on any topic from first year psychology. I decided to prepare my presentation on the Gestalt Principles, a set of laws of human perception that explain how people group, simplify, and perceive objects in the world around them. As a graphic designer in my downtime, this psychology topic was an obvious choice for me! I decided to frame the lesson as a Mario adventure...a fun and perhaps unexpected way of teaching.
 
-- **I Learned How To**: teach with delight (the art historian Gustav Friedrich Waagen once said *"First delight, then instruct."*), be interviewed, & I also learned more about the Gestalt Principles myself!
-- **Next I Want To**: pass on my passion for psychology onto this new generation of first-year students (Hint: I got the job. 😉).
+- **I Learned How To**: teach with delight (the art historian Gustav Friedrich Waagen once said *"First delight, then instruct."*), be interviewed, and I also learned a lot of new things about the Gestalt Principles myself!
+- **Next I Want To**: pass on my passion for psychology onto the new generation of first-year students (Hint: I got the job. 😉).
 <br/><br/>
 
 ---
