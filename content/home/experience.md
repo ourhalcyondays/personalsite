@@ -45,7 +45,7 @@ experience:
         * Assisted in the laboratory’s animal care program for zebrafish,           whitefish, and yellow perch, completing tasks like feeding, water           quality checks, water changes, and water sampling.
         
         **Project 2**:  *Protein, lipid & water content in lake whitefish            tissue. | Environment & Climate Change Canada*
-        * Used protein and lipid assays to determine lipid, protein, and            water content in muscle tissue.
+        * Used protein and lipid assays to determine % lipid, protein, and            water in muscle tissue.
         
   - title: Independent Research Student
     company: Aquatic Behavioural Ecology Lab
@@ -73,7 +73,6 @@ experience:
     date_end: ''
     description: |2-
         * Developed team **[branding and marketing                materials](https://jessicaqiu.myportfolio.com/leap-canada-branding-marketing)** from scratch with creative team.
-    
   - title: Camp Counsellor
     company: Village Eulogia for Families with Special Needs
     company_url: 'https://www.villageeulogia.com/'
