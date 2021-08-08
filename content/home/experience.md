@@ -44,7 +44,7 @@ experience:
         * Imaged 300+ larval zebrafish at 5 life stages and completed               morphometric measurements on images.
         * Assisted in the laboratory’s animal care program for zebrafish,           whitefish, and yellow perch, completing tasks like feeding, water           quality checks, water changes, and water sampling.
         
-        **Project 2**:  *Macromolecule & water content in lake whitefish            tissue. | Environment & Climate Change Canada*
+        **Project 2**:  *Protein, lipid & water content in lake whitefish            tissue. | Environment & Climate Change Canada*
         * Used protein and lipid assays to determine lipid, protein, and            water content in muscle tissue.
         
   - title: Independent Research Student
