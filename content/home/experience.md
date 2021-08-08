@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant
+    company: PSYCH 1X03/1XX3 - McMaster University
+    company_url: 'http://macintropsych.com/'
+    company_logo: book
+    location: Hamilton, ON
+    date_start: '2021-09-03'
+    date_end: ''
+    description: |2-
+
   - title: Research Assistant
     company: Wilson Toxicology Lab
     company_url: 'https://wilsontoxlab.ca/'
@@ -30,9 +39,13 @@ experience:
     date_start: '2021-05-03'
     date_end: ''
     description: |2-
-        * Performed fish care tasks such as feeding, water quality, water changes, and taking water samples.
-        * Trained in microscopy, morphometrics, and pipetting skills.
-        * Sampled zebrafish tissues (brain, liver, gills, kidney, gonads, intestines, and muscle).
+        **Project 1**:  *Effects of metformin on larval & adult zebrafish. |         Dr. Joanna Wilson & Dr. Oana Birceanu*
+        * Collected tissue samples from fish (brain, liver, gill, kidney,           gonad, intestine, and muscle).
+        * Imaged 300+ larval zebrafish at 5 life stages and completed               morphometric measurements on images.
+        * Assisted in the laboratory’s animal care program for zebrafish,           whitefish, and yellow perch, completing tasks like feeding, water           quality checks, water changes, and water sampling.
+        
+        **Project 2**:  *Macromolecule & water content in lake whitefish            tissue. | Environment & Climate Change Canada*
+        * Used protein and lipid assays to determine lipid, protein, and            water content in muscle tissue.
         
   - title: Independent Research Student
     company: Aquatic Behavioural Ecology Lab
@@ -42,9 +55,14 @@ experience:
     date_start: '2021-01-09'
     date_end: ''
     description: |2-
-        * Used BORIS software to collect experimental data from video observations.
-        * Plotted summaries of collected data in R and presented results.
-        * Managed large workloads with minimal supervision while working remotely.
+        **Project 1**:  *Leadership behaviour in the endangered redside             dace. | Dr. Sigal Balshine & Dr. Andy Turko*
+        *	Mastered new software (BORIS) to collect experimental data from           video observations.
+        *	Analyzed collected data in Excel & created data visualizations in         R
+        * Presented completed **[research](https://drive.google.com/file/d/1SRaFvVckpJWQ_tPyrwycQvgXq2r5-k1H/view)** at the Annual Ontario Psychology             Undergraduate Thesis Conference (AOPUTC), placing top 10% out of            200+ undergraduate thesis presentations.
+        
+        **Project 2**:  *Antioxidant adjustment during social ascension in          cichlids. | Dr. Sigal Balshine*
+        *	Created clear graphical abstract that highlighted key findings for         scientific paper.
+
         
   - title: Creative Director
     company: LEAP Canada
@@ -54,7 +72,7 @@ experience:
     date_start: '2020-03-15'
     date_end: ''
     description: |2-
-        * Developed team branding and marketing materials from scratch with creative team.
+        * Developed team **[branding and marketing                materials](https://jessicaqiu.myportfolio.com/leap-canada-branding-marketing)** from scratch with creative team.
     
   - title: Camp Counsellor
     company: Village Eulogia for Families with Special Needs
