@@ -1,5 +1,5 @@
 ---
-date: "2020-07-07T00:00:00Z"
+date: "2021-03-15T00:00:00Z"
 external_link: "https://jessicaqiu.myportfolio.com/leap-canada-branding-marketing"
 image:
   caption: 
