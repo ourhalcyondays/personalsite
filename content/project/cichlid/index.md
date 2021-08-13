@@ -13,7 +13,7 @@ links:
 - icon: file-image
   icon_pack: fas
   name: Abstract
-  url: https://drive.google.com/file/d/1SRaFvVckpJWQ_tPyrwycQvgXq2r5-k1H/view?usp=sharing
+  url: https://drive.google.com/file/d/1SbML14PAu2bCB6RVRYuQP80aj7wvJu7F/view?usp=sharing
 summary: Designing a graphical abstract for a scientific paper.
 tags:
 - Research
