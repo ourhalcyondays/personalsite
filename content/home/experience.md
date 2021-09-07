@@ -80,7 +80,10 @@ experience:
     location: Toronto, ON
     date_start: '2020-07-29'
     date_end: '2020-08-14'
-    description:
+    description: |2-
+       *	Provided one-on-one support to children with Down’s Syndrome and  autism.
+       *  Maintained calm and patience when children were agitated and problem-solved to diffuse situations.
+
     
   - title: Fracture Clinic & Inpatient Mental Health Clinic Volunteer
     company: Markham-Stouffville Hospital

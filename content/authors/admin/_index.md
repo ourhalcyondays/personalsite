@@ -46,8 +46,6 @@ superuser: true
 title: Jessica Qiu
 ---
 
-[Site is under construction! 🚧]
-
 I always have an appetite for learning new skills, making useful things, and a good bowl of noodles. Currently, I'm focused on further improving my research skills—I am especially drawn to research that has implications for improving people's lives and the earth we share. When I'm not busy hustling as a student, you can find me tinkering away on R, Blender, or Photoshop CC. Occasionally, I even come up for air.
 
 Have a look at my complete {{< staticref "uploads/CV.pdf" "newtab" >}} résumé/CV {{< icon name="download" pack="fas" >}}{{< /staticref >}}.
