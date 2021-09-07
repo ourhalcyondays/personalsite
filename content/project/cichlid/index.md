@@ -1,6 +1,6 @@
 ---
 date: "2021-08-08T00:00:00Z"
-external_link: ""
+external_link: "https://drive.google.com/file/d/1SbML14PAu2bCB6RVRYuQP80aj7wvJu7F/view?usp=sharing"
 image:
   caption: 
   focal_point: Smart
@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Abstract
   url: https://drive.google.com/file/d/1SbML14PAu2bCB6RVRYuQP80aj7wvJu7F/view?usp=sharing
-summary: Designing a graphical abstract for a scientific paper.
+summary: Designing a graphical abstract for a scientific paper. Page is under construction, more coming soon! 🚧
 tags:
 - Research
 - Animal Behaviour
