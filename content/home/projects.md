@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Projects 🔨
-subtitle: 'Use filter buttons to sort project by type!'
+subtitle: 'Use filter buttons below to sort projects by type!'
 
 content:
   # Page type to display. E.g. project.
