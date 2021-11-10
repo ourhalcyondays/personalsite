@@ -30,7 +30,9 @@ experience:
     date_start: '2021-09-03'
     date_end: ''
     description: |2-
-
+        * Prepared and led multi-media presentations and interactive activities to teach introductory psychology to students of various backgrounds.
+        * Formally trained in the application of cognitive psychological principles to effective communication and teaching (pedagogy).
+        * Enhanced students’ learning experience by answering questions and providing mentorship support.
   - title: Research Assistant
     company: Wilson Toxicology Lab
     company_url: 'https://wilsontoxlab.ca/'
