@@ -11,7 +11,7 @@ education:
 email: "qiuj22@mcmaster.ca"
 highlight_name: false
 interests:
-- Researching the effects of caffeine & captivity on fathead minnows [@ABEL Lab](https://abel.mcmaster.ca/).
+- Researching the effects of caffeine & captivity on minnows [@ABEL Lab](https://abel.mcmaster.ca/).
 - Creating this personal site using R.
 - Building my [second brain](https://maggieappleton.com/basb).
 - Catching up on reading.
