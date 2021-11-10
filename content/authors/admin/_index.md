@@ -11,11 +11,11 @@ education:
 email: "qiuj22@mcmaster.ca"
 highlight_name: false
 interests:
-- Researching the effects of metformin on zebrafish [@Wilson Lab](https://wilsontoxlab.ca/).
+- Researching the effects of caffeine & captivity on fathead minnows [@ABEL Lab](https://abel.mcmaster.ca/).
 - Creating this personal site using R.
 - Building my [second brain](https://maggieappleton.com/basb).
 - Catching up on reading.
-- Enjoying the sun!
+- Enjoying autumn weather!
 organizations:
 - name: McMaster University
   url: https://science.mcmaster.ca/pnb/
