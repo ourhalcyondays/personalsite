@@ -6,7 +6,7 @@
 # Appearance
 
 theme: custom
-day_night: true
+day_night: false
 font: 'custom'
 font_size: M
 
