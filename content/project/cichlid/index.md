@@ -10,7 +10,7 @@ header:
   image: ""
   caption: ""
 links:
-- icon: books
+- icon: book
   icon_pack: fas
   name: Paper
   url: https://drive.google.com/file/d/1-9lpNulEGtyJki78AyCXbCNHnWoRt2qC/view?usp=sharing
