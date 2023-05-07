@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Baycrest Summer Research Student
+    company: Rotman Research Institute 
+    company_url: 'https://www.baycrest.org/'
+    company_logo: firstaid
+    location: Toronto, ON
+    date_start: '2023-05-01'
+    date_end: ''
+    description:
   - title: Teaching Assistant
     company: PSYCH 1X03/1XX3 - McMaster University
     company_url: 'http://macintropsych.com/'
@@ -30,16 +38,27 @@ experience:
     date_start: '2021-09-03'
     date_end: ''
     description: |2-
-        * Prepared and led multi-media presentations and interactive activities to teach introductory psychology to students of various backgrounds.
-        * Formally trained in the application of cognitive psychological principles to effective communication and teaching (pedagogy).
-        * Enhanced students’ learning experience by answering questions and providing mentorship support.
+        * Professionally trained in effective teaching and science communication, taught 3 tutorials a week for introductory psychology classes and provided mentorship support to over 220+ students.
+        * Assessed students’ individual needs and adapted teaching approach to meet different needs.
+        * Received honourable mention for the “TA of the Year Award” based on student nominations.
+  - title: Research Assistant & Lab Manager
+    company: Aquatic Behavioural Ecology Lab
+    company_url: 'https://abel.mcmaster.ca/'
+    company_logo: fish
+    location: Hamilton, ON
+    date_start: '2021-01-09'
+    date_end: ''
+    description: |2-
+        * Responsible for the laboratory’s animal care program & proactively cared for 8+ fish species by completing tasks like feeding, water quality checks, water changes, and health checks.
+        * Communicated effectively with team of 25+ undergraduate and graduate students working on 10+ ongoing experiments to ensure smooth operation, & planned social events to foster community.
+        * Assisted field crew with long-term research projects monitoring local aquatic ecosystem health.
   - title: Research Assistant
     company: Wilson Toxicology Lab
     company_url: 'https://wilsontoxlab.ca/'
     company_logo: flask
     location: Hamilton, ON
     date_start: '2021-05-03'
-    date_end: ''
+    date_end: '2021-09-03'
     description: |2-
         **Project 1**:  *Effects of metformin on larval & adult zebrafish. |         Dr. Joanna Wilson & Dr. Oana Birceanu*
         * Collected tissue samples from fish (brain, liver, gill, kidney,           gonad, intestine, and muscle).
@@ -54,16 +73,15 @@ experience:
     company_url: 'https://abel.mcmaster.ca/'
     company_logo: fish
     location: Hamilton, ON
-    date_start: '2021-01-09'
-    date_end: ''
+    date_start: '2020-01-09'
+    date_end: '2022-01-09'
     description: |2-
         **Project 1**:  *Leadership behaviour in the endangered redside             dace. | Dr. Sigal Balshine & Dr. Andy Turko*
         *	Mastered new software (BORIS) to collect experimental data from           video observations.
-        *	Analyzed collected data in Excel & created data visualizations in         R
         * Presented completed **[research](https://drive.google.com/file/d/1SRaFvVckpJWQ_tPyrwycQvgXq2r5-k1H/view)** at the Annual Ontario Psychology             Undergraduate Thesis Conference (AOPUTC), placing top 10% out of            200+ undergraduate thesis presentations.
         
-        **Project 2**:  *Antioxidant adjustment during social ascension in          cichlids. | Dr. Sigal Balshine*
-        *	Created clear graphical abstract that highlighted key findings for         scientific paper.
+        **Project 2**:  *The effects of caffeine & captivity on learning in fathead minnows. | Dr. Sigal Balshine*
+        *	Assisted with experimental assays and improved study methodology by using Excel knowledge to facilitate more efficient data collection.
 
         
   - title: Creative Director
@@ -72,29 +90,11 @@ experience:
     company_logo: art
     location: Toronto, ON
     date_start: '2020-03-15'
-    date_end: ''
+    date_end: '2022-05-14'
     description: |2-
         * Developed team **[branding and marketing                materials](https://jessicaqiu.myportfolio.com/leap-canada-branding-marketing)** from scratch with creative team.
-  - title: Camp Counsellor
-    company: Village Eulogia for Families with Special Needs
-    company_url: 'https://www.villageeulogia.com/'
-    company_logo: hands
-    location: Toronto, ON
-    date_start: '2020-07-29'
-    date_end: '2020-08-14'
-    description: |2-
-       *	Provided one-on-one support to children with Down’s Syndrome and  autism.
-       *  Maintained calm and patience when children were agitated and problem-solved to diffuse situations.
 
-    
-  - title: Fracture Clinic & Inpatient Mental Health Clinic Volunteer
-    company: Markham-Stouffville Hospital
-    company_url: 'https://www.msh.on.ca/'
-    company_logo: firstaid
-    location: Markham, ON
-    date_start: '2017-07-01'
-    date_end: '2018-08-14'
-    description:
+
 
 design:
   columns: '2'
