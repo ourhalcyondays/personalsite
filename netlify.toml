@@ -1,6 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
+  image = "ubuntu:focal"
 
 [build.environment]
   HUGO_VERSION = "0.83.1"
