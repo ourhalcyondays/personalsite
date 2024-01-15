@@ -2,24 +2,24 @@
 bio: Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. She loves learning things and making things.
 education:
   courses:
+  - course: Master of Science in Occupational Therapy
+    institution: University of Toronto, Temerty Faculty of Medicine
+    year: 2025
   - course: Honours BSc. in Psychology, Neuroscience & Behaviour
-    institution: McMaster University
+    institution: McMaster University, Faculty of Science
     year: 2023
-  - course: Ontario Secondary School Diploma, Honour Roll
-    institution: Unionville Highschool
-    year: 2019
 email: "qiuj22@mcmaster.ca"
 highlight_name: false
 interests:
-- Researching the effects of caffeine & captivity on minnows [@ABEL Lab](https://abel.mcmaster.ca/).
-- Creating this personal site using R.
+- Researching biomarkers of Alzheimer's Disease [@VisAge Lab](https://www.baycrest.org/about-us-rri).
+- Updating this personal site using R.
 - Building my [second brain](https://maggieappleton.com/basb).
 - Catching up on reading.
-- Enjoying spring weather!
+- Enjoying winter weather!
 organizations:
-- name: McMaster University
-  url: https://science.mcmaster.ca/pnb/
-role: Psychology, Neuroscience & Behaviour (BSc.)
+- name: University of Toronto
+  url: https://ot.utoronto.ca/
+role: Master of Science in Occupational Therapy (MScOT)
 social:
 - icon: envelope
   icon_pack: fas
