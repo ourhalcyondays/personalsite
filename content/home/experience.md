@@ -40,7 +40,7 @@ experience:
     company_logo: book
     location: Hamilton, ON
     date_start: '2021-09-03'
-    date_end: ''
+    date_end: '2023-04-30'
     description: |2-
         * Professionally trained in effective teaching and science communication, taught 3 tutorials a week for introductory psychology classes and provided mentorship support to over 220+ students.
         * Assessed students’ individual needs and adapted teaching approach to meet different needs.

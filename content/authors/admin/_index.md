@@ -2,7 +2,7 @@
 bio: Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. She loves learning things and making things.
 education:
   courses:
-  - course: Master of Science in Occupational Therapy
+  - course: Master of Science in Occupational Therapy (MScOT)
     institution: University of Toronto, Temerty Faculty of Medicine
     year: 2025
   - course: Honours BSc. in Psychology, Neuroscience & Behaviour
@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: University of Toronto
   url: https://ot.utoronto.ca/
-role: Master of Science in Occupational Therapy (MScOT)
+role: Master of Science in Occupational Therapy
 social:
 - icon: envelope
   icon_pack: fas
