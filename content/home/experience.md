@@ -22,14 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Baycrest Summer Research Student
-    company: Rotman Research Institute 
+  - title: Research Assistant
+    company: VisAge Lab - Baycrest Rotman Research Institute 
     company_url: 'https://www.baycrest.org/'
     company_logo: firstaid
     location: Toronto, ON
     date_start: '2023-05-01'
     date_end: ''
-    description:
+    description: |2-
+        * Worked on several research projects investigating biomarkers for Alzheimer’s Disease and fall-prevention interventions in older adults, supervised by Dr. Eugenie Roudaia.
+        * Assisted with study visit procedures by using EEG (electroencephalogram) to collect patient data, administering & scoring neuropsychological tests, & consolidating data in REDcap survey software.
+        * Prepared research ethics board (REB) documents and used MATLAB to analyze EEG data.
+
   - title: Teaching Assistant
     company: PSYCH 1X03/1XX3 - McMaster University
     company_url: 'http://macintropsych.com/'
@@ -42,7 +46,7 @@ experience:
         * Assessed students’ individual needs and adapted teaching approach to meet different needs.
         * Received honourable mention for the “TA of the Year Award” based on student nominations.
   - title: Research Assistant & Lab Manager
-    company: Aquatic Behavioural Ecology Lab
+    company: Aquatic Behavioural Ecology Lab  - McMaster University
     company_url: 'https://abel.mcmaster.ca/'
     company_logo: fish
     location: Hamilton, ON
@@ -53,7 +57,7 @@ experience:
         * Communicated effectively with team of 25+ undergraduate and graduate students working on 10+ ongoing experiments to ensure smooth operation, & planned social events to foster community.
         * Assisted field crew with long-term research projects monitoring local aquatic ecosystem health.
   - title: Research Assistant
-    company: Wilson Toxicology Lab
+    company: Wilson Toxicology Lab  - McMaster University
     company_url: 'https://wilsontoxlab.ca/'
     company_logo: flask
     location: Hamilton, ON
@@ -69,7 +73,7 @@ experience:
         * Used protein and lipid assays to determine % lipid, protein, and            water in muscle tissue.
         
   - title: Independent Research Student
-    company: Aquatic Behavioural Ecology Lab
+    company: Aquatic Behavioural Ecology Lab  - McMaster University
     company_url: 'https://abel.mcmaster.ca/'
     company_logo: fish
     location: Hamilton, ON

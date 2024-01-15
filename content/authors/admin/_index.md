@@ -11,7 +11,7 @@ education:
 email: "qiuj22@mcmaster.ca"
 highlight_name: false
 interests:
-- Researching biomarkers of Alzheimer's Disease [@VisAge Lab](https://www.baycrest.org/about-us-rri).
+- Researching EEG biomarkers of Alzheimer's Disease [@VisAge Lab](https://www.baycrest.org/about-us-rri).
 - Updating this personal site using R.
 - Building my [second brain](https://maggieappleton.com/basb).
 - Catching up on reading.
