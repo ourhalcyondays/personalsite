@@ -7,8 +7,13 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
+- Michael Jenkins
+- Amitoze Doel
+- Alexandra Irvine
+- Meagan Tamburro
 - admin
-date: "2019-04-07T00:00:00Z"
+- Sukhvinder S. Obhi
+date: "2023-07-31T00:00:00Z"
 doi: ""
 featured: false
 image:

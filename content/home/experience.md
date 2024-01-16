@@ -51,7 +51,7 @@ experience:
     company_logo: fish
     location: Hamilton, ON
     date_start: '2021-01-09'
-    date_end: ''
+    date_end: '2023-04-30'
     description: |2-
         * Responsible for the laboratory’s animal care program & proactively cared for 8+ fish species by completing tasks like feeding, water quality checks, water changes, and health checks.
         * Communicated effectively with team of 25+ undergraduate and graduate students working on 10+ ongoing experiments to ensure smooth operation, & planned social events to foster community.
