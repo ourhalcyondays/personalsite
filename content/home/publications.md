@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Publications 📄 (Under Renovation 🚧)
+title: Publications 📝 (Under Renovation 🚧)
 subtitle: 'This section is being updated, thanks for your patience!'
 
 content:
@@ -37,7 +37,3 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

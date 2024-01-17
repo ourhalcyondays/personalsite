@@ -1,11 +1,6 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: text
+
 authors:
 - Michael Jenkins
 - Amitoze Doel
@@ -14,7 +9,7 @@ authors:
 - admin
 - Sukhvinder S. Obhi
 date: "2023-07-31T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1111/jasp.13003"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
@@ -25,17 +20,16 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: ""
+publication: '*Journal of Applied Social Psychology 53*(11)'
 publication_short: ""
 publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: (Published)
 tags:
 - Source Themes
-title: An example preprint / working paper
+title: Racial microaggressions—identifying factors affecting perceived severity and exploring strategies to reduce harm
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://arxiv.org/pdf/1512.04133v1

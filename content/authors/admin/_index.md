@@ -1,5 +1,5 @@
 ---
-bio: Jessica Qiu is a third year student studying Psychology, Neuroscience & Behaviour at McMaster University. She loves learning things and making things.
+bio: Jessica Qiu is a first year student studying Occupational Therapy at the University of Toronto. She loves learning things and making things.
 education:
   courses:
   - course: Master of Science in Occupational Therapy (MScOT)
@@ -9,7 +9,7 @@ education:
     institution: McMaster University, Faculty of Science
     year: 2023
 email: "qiuj22@mcmaster.ca"
-highlight_name: false
+highlight_name: true
 interests:
 - Researching EEG biomarkers of Alzheimer's Disease [@VisAge Lab](https://www.baycrest.org/about-us-rri).
 - Updating this personal site using R.
