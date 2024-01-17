@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Behavioural Ecology & Sociobiology. BEAS-D-21-00423*'
+publication: '*Behavioural Ecology & Sociobiology. BEAS-D-21-00423 (Under Review)*'
 publication_short: ""
 publication_types:
 - "2"

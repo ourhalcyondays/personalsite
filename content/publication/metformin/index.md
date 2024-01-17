@@ -15,7 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*(In preprint)*'
+publication: '*(In Preprint)*'
 publication_short: ""
 publication_types:
 - "2"
