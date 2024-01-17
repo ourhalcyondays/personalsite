@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Publications 📝 (Under Renovation 🚧)
-subtitle: 'This section is being updated, thanks for your patience!'
+title: Publications 📝 
+subtitle: '(Under Renovation 🚧) This section is being updated, thanks for your patience!'
 
 content:
   # Page type to display. E.g. post, talk, publication...
