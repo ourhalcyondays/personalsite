@@ -2,10 +2,10 @@
 bio: Jessica Qiu is a first year student studying Occupational Therapy at the University of Toronto. She loves learning things and making things.
 education:
   courses:
-  - course: Master of Science in Occupational Therapy MSc.(OT)
+  - course: Master of Science in Occupational Therapy MSc(OT)
     institution: University of Toronto, Temerty Faculty of Medicine
     year: 2025
-  - course: Honours BSc. in Psychology, Neuroscience & Behaviour
+  - course: Honours Bachelor of Science in Psychology, Neuroscience & Behaviour (BSc.)
     institution: McMaster University, Faculty of Science
     year: 2023
 email: "jess.qiu@mail.utoronto.ca"
@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: University of Toronto
   url: https://ot.utoronto.ca/
-role: Master of Science in Occupational Therapy MSc.(OT)
+role: Master of Science in Occupational Therapy MSc(OT)
 social:
 - icon: envelope
   icon_pack: fas
