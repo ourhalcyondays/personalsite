@@ -1,5 +1,5 @@
 ---
-bio: Jessica Qiu is a first year student studying Occupational Therapy at the University of Toronto. She loves learning things and making things.
+bio: Jessica Qiu is recent graduate of the Master of Science in Occupational Therapy program at the University of Toronto. She loves learning things and making things.
 education:
   courses:
   - course: Master of Science in Occupational Therapy MSc(OT)
