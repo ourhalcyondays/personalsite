@@ -1,6 +1,6 @@
 ---
 date: "2021-08-08T00:00:00Z"
-external_link: "https://drive.google.com/file/d/1SbML14PAu2bCB6RVRYuQP80aj7wvJu7F/view?usp=sharing"
+external_link: "https://drive.google.com/file/d/1iZmsV7zaVilwwjKUn7Q4yNkoNt9P7i3x/view?usp=sharing"
 image:
   caption: 
   focal_point: Smart
@@ -10,20 +10,14 @@ header:
   image: ""
   caption: ""
 links:
-- icon: book
+- icon: file-powerpoint
   icon_pack: fas
-  name: Paper
-  url: https://drive.google.com/file/d/1-9lpNulEGtyJki78AyCXbCNHnWoRt2qC/view?usp=sharing
-- icon: file-image
-  icon_pack: fas
-  name: Graphic
-  url: https://drive.google.com/file/d/1SbML14PAu2bCB6RVRYuQP80aj7wvJu7F/view?usp=sharing
-summary: Designed a graphical abstract for a scientific paper. Page is under construction, more coming soon! 🚧
+  name: Slides
+  url: https://drive.google.com/file/d/1iZmsV7zaVilwwjKUn7Q4yNkoNt9P7i3x/view?usp=sharing
+summary: My presentation explores the Canadian OT Practice Process (COTIPP) through an international lens, fostering cross-cultural learning and exchange between Canadian and Swedish OT practices.
 tags:
-- Research
-- Animal Behaviour
-- Graphic Design
-title: Social Ascension & Antioxidant Capacity in Cichlids (Graphical Abstract)
+- Occupational Therapy
+title: Bridging Perspectives; Introducing the Canadian OT Practice Process to Swedish Therapists
 url_code: ""
 url_pdf: ""
 url_slides: ""
