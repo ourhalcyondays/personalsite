@@ -10,15 +10,15 @@ header:
   image: ""
   caption: ""
 links:
-- icon: person-chalkboard
+- icon: file-powerpoint
   icon_pack: fas
   name: Presentation
   url: https://drive.google.com/file/d/15Ech6_P4ykfwdmtKJu2i9R9hiTAzmtIq/view?usp=sharing
-summary: Graduate research project: self-initiated research project investigating compensatory movements made by children with cerebral palsy make while playing the Bootle Blast motor-training video game.
+summary: Self-initiated graduate research project investigating compensatory movements made by children with cerebral palsy make while playing the Bootle Blast motor-training video game.
 tags:
 - Occupational Therapy
 - Research
-title: Graduate research project: Investigating compensatory movements made by children with CP
+title: MScOT Graduate Research Project
 url_code: ""
 url_pdf: ""
 url_slides: ""
