@@ -2,7 +2,7 @@
 bio: Jessica Qiu is recent graduate of the Master of Science in Occupational Therapy program at the University of Toronto. She loves learning things and making things.
 education:
   courses:
-  - course: Master of Science in Occupational Therapy MSc(OT)
+  - course: Master of Science in Occupational Therapy (MScOT)
     institution: University of Toronto, Temerty Faculty of Medicine
     year: 2025
   - course: Honours Bachelor of Science in Psychology, Neuroscience & Behaviour (BSc.)
@@ -11,9 +11,9 @@ education:
 email: "jess.qiu@mail.utoronto.ca"
 highlight_name: true
 interests:
+- Studying for the NOTCE.
 - Researching EEG biomarkers of Alzheimer's Disease [@VisAge Lab](https://www.baycrest.org/about-us-rri).
 - Updating this personal site using R.
-- Building my [second brain](https://maggieappleton.com/basb).
 - Catching up on reading.
 - Enjoying fall weather!
 organizations:

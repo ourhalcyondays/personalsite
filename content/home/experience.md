@@ -87,18 +87,6 @@ experience:
         **Project 2**:  *The effects of caffeine & captivity on learning in fathead minnows. | Dr. Sigal Balshine*
         *	Assisted with experimental assays and improved study methodology by using Excel knowledge to facilitate more efficient data collection.
 
-        
-  - title: Creative Director
-    company: LEAP Canada
-    company_url: 'https://www.leapcanada.org/'
-    company_logo: art
-    location: Toronto, ON
-    date_start: '2020-03-15'
-    date_end: '2022-05-14'
-    description: |2-
-        * Developed team **[branding and marketing                materials](https://jessicaqiu.myportfolio.com/leap-canada-branding-marketing)** from scratch with creative team.
-
-
 
 design:
   columns: '2'
