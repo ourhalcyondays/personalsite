@@ -15,7 +15,7 @@ interests:
 - Updating this personal site using R.
 - Building my [second brain](https://maggieappleton.com/basb).
 - Catching up on reading.
-- Enjoying winter weather!
+- Enjoying fall weather!
 organizations:
 - name: University of Toronto
   url: https://ot.utoronto.ca/
