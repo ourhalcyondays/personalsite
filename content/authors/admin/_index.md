@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: University of Toronto
   url: https://ot.utoronto.ca/
-role: Master of Science in Occupational Therapy MSc(OT)
+role: Master of Science in Occupational Therapy (MScOT)
 social:
 - icon: envelope
   icon_pack: fas

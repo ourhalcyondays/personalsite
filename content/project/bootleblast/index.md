@@ -1,6 +1,6 @@
 ---
 date: "2024-06-08T00:00:00Z"
-external_link: "https://drive.google.com/file/d/1BjUK_TOvghXEWt2sNKXc41CYjR-pgYun/view?usp=sharing"
+external_link: "https://drive.google.com/file/d/15Ech6_P4ykfwdmtKJu2i9R9hiTAzmtIq/view?usp=sharing"
 image:
   caption: 
   focal_point: Smart
@@ -13,11 +13,11 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Printout
-  url: https://drive.google.com/file/d/1BjUK_TOvghXEWt2sNKXc41CYjR-pgYun/view?usp=sharing
-summary: Feeding Plan resource for OTs to communicate individualized feeding recommendations and support caregiver education.
+  url: https://drive.google.com/file/d/15Ech6_P4ykfwdmtKJu2i9R9hiTAzmtIq/view?usp=sharing
+summary: Graduate research project: self-initiated research project investigating compensatory movements made by children with cerebral palsy make while playing the Bootle Blast motor-training video game.
 tags:
 - Occupational Therapy
-title: IDDSI Feeding Plan for Parents
+title: Graduate research project: Investigating compensatory movements made by children with CP
 url_code: ""
 url_pdf: ""
 url_slides: ""
