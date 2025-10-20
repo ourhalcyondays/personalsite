@@ -33,7 +33,7 @@ content:
     tag: R
   - name: Graphic Design
     tag: Graphic Design
-  - name: Other
+  - name: For fun!
     tag: Other
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
