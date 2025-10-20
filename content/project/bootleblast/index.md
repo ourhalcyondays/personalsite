@@ -1,5 +1,5 @@
 ---
-date: "2024-06-08T00:00:00Z"
+date: "2025-08-08T00:00:00Z"
 external_link: "https://drive.google.com/file/d/15Ech6_P4ykfwdmtKJu2i9R9hiTAzmtIq/view?usp=sharing"
 image:
   caption: 
@@ -10,13 +10,14 @@ header:
   image: ""
   caption: ""
 links:
-- icon: file-pdf
+- icon: person-chalkboard
   icon_pack: fas
-  name: Printout
+  name: Presentation
   url: https://drive.google.com/file/d/15Ech6_P4ykfwdmtKJu2i9R9hiTAzmtIq/view?usp=sharing
 summary: Graduate research project: self-initiated research project investigating compensatory movements made by children with cerebral palsy make while playing the Bootle Blast motor-training video game.
 tags:
 - Occupational Therapy
+- Research
 title: Graduate research project: Investigating compensatory movements made by children with CP
 url_code: ""
 url_pdf: ""
@@ -30,8 +31,6 @@ share: false
 ## ABOUT:
 
 
-- **I Learned How To**: design a graphical abstract, condense complex ideas into a simple but informative illustration.
-- **Next I Want To**: continue exploring scientific communication and design.
 
 ---
 

@@ -30,9 +30,7 @@ share: false
 ## ABOUT:
 
 
-- **I Learned How To**: design a graphical abstract, condense complex ideas into a simple but informative illustration.
-- **Next I Want To**: continue exploring scientific communication and design.
-
+s
 ---
 
 Coming Soon...
