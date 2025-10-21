@@ -33,7 +33,7 @@ content:
     tag: Research
   - name: 🎨Design
     tag: Graphic Design
-  - name: ✨ For Fun!
+  - name: ✨ For Fun!  
     tag: Other
 
 design:
