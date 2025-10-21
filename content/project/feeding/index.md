@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Printout
   url: https://drive.google.com/file/d/1BjUK_TOvghXEWt2sNKXc41CYjR-pgYun/view?usp=sharing
-summary: Feeding Plan resource for OTs to communicate individualized feeding recommendations and support caregiver education.
+summary: This Feeding Plan resource for OTs was created as my fieldwork 1 project to communicate individualized feeding recommendations and support caregiver education.
 tags:
 - Occupational Therapy
 title: IDDSI Feeding Plan for Parents
@@ -30,7 +30,7 @@ share: false
 ## ABOUT:
 
 
-s
+
 ---
 
 Coming Soon...
