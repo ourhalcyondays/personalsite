@@ -20,7 +20,6 @@ links:
   url: https://drive.google.com/file/d/1SbML14PAu2bCB6RVRYuQP80aj7wvJu7F/view?usp=sharing
 summary: Designed a graphical abstract for a scientific paper. Page is under construction, more coming soon! 🚧
 tags:
-- Research
 - Animal Behaviour
 - Graphic Design
 title: Social Ascension & Antioxidant Capacity in Cichlids (Graphical Abstract)

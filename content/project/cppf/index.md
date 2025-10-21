@@ -17,7 +17,7 @@ links:
 summary: My presentation explores the Canadian OT Practice Process (COTIPP) through an international lens, fostering cross-cultural learning and exchange between Canadian and Swedish OT practices.
 tags:
 - Occupational Therapy
-title: Bridging Perspectives; Introducing the Canadian OT Practice Process to Swedish Therapists
+title: Canadian OT Practice Process for Swedish Therapists
 url_code: ""
 url_pdf: ""
 url_slides: ""
