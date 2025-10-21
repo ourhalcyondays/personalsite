@@ -1,6 +1,6 @@
 ---
 date: "2025-08-08T00:00:00Z"
-external_link: "https://drive.google.com/file/d/15Ech6_P4ykfwdmtKJu2i9R9hiTAzmtIq/view?usp=sharing"
+external_link: "https://drive.google.com/file/d/1YbklCoenouPb5L1NHL8pMMDwJ0gmnNH-/view?usp=sharing"
 image:
   caption: 
   focal_point: Smart
