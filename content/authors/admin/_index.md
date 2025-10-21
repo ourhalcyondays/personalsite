@@ -12,8 +12,8 @@ email: "jess.qiu@mail.utoronto.ca"
 highlight_name: true
 interests:
 - Studying for the NOTCE.
-- Researching EEG biomarkers of Alzheimer's Disease [@VisAge Lab](https://www.baycrest.org/about-us-rri).
 - Updating this personal site using R.
+- Designing custom boardgames.
 - Catching up on reading.
 - Enjoying fall weather!
 organizations:
@@ -46,8 +46,8 @@ superuser: true
 title: Jessica Qiu
 ---
 
-I’m a freshly minted MScOT graduate on a mission to help brains, bodies, and sometimes even spreadsheets work a little better. I’m currently seeking opportunities in **neurorehabilitation**, **acute care**, or **pediatrics**.
+I’m a freshly minted MScOT graduate on a mission to help brains, bodies, and the world around them work a little better together. I’m currently seeking work opportunities in **neurorehabilitation**, **acute care**, or **pediatrics**.
 
-I am also passionate about developing my research skills and **bridging evidence and practice**—I am especially drawn to research that has implications for improving people’s lives and the earth we share. Currently, I am a Research Assistant at VisAge Lab, where I contribute to projects investigating EEG biomarkers for Alzheimer’s disease.
+I am passionate about developing my research skills and **bridging evidence and practice**—I am especially drawn to research that has implications for improving people’s lives and the earth we share. Currently, I am a Research Assistant at [@VisAge Lab](https://www.baycrest.org/about-us-rri), where I contribute to projects investigating EEG biomarkers for Alzheimer’s disease. In my free time, you can find me tinkering away on R, Photoshop CC, or Blender.
 
 Have a look at my complete {{< staticref "uploads/CV.pdf" "newtab" >}} résumé/CV {{< icon name="download" pack="fas" >}}{{< /staticref >}}.
