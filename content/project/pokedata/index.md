@@ -17,7 +17,7 @@ links:
 summary: So you've caught 'em all...now it's time to plot 'em all! A data visualization experiment using Pokémon data.
 tags:
 - R
-- Data Visualization
+- Graphic Design
 - Pokémon
 title: Gotta Plot 'Em All (An R Experiment)
 url_code: ""

@@ -10,11 +10,15 @@ header:
   image: ""
   caption: ""
 links:
+- icon: images
+  icon_pack: fas
+  name: Poster
+  url: https://drive.google.com/file/d/1YbklCoenouPb5L1NHL8pMMDwJ0gmnNH-/view?usp=sharing
 - icon: file-powerpoint
   icon_pack: fas
   name: Presentation
-  url: https://drive.google.com/file/d/15Ech6_P4ykfwdmtKJu2i9R9hiTAzmtIq/view?usp=sharing
-summary: Self-initiated graduate research project investigating compensatory movements made by children with cerebral palsy make while playing the Bootle Blast motor-training video game.
+  url: https://drive.google.com/file/d/1YbklCoenouPb5L1NHL8pMMDwJ0gmnNH-/view?usp=sharing
+summary: Undergraduate honours thesis research investigating the effects of turbidity and low visibility on zebrafish activity.
 tags:
 - Research
 title: The Effects of Reduced Visibility on Fish Activity
