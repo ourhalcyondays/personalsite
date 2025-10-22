@@ -76,3 +76,10 @@ related:
       weight: 100
     - name: categories
       weight: 70
+############################
+## Turn open new link in new tab on by default
+############################
+markup:
+  defaultMarkdownHandler: blackFriday
+  blackFriday:
+    hrefTargetBlank: true

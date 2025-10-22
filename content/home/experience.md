@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience 🧪
-subtitle: ''
+title: Featured Work Experience 💼
+subtitle: 'Curious about the full picture? Explore [all my experiences here](https://drive.google.com/file/d/1pA0k26ERctmr1xi3wmJxATKWFsbPO5zV/view?usp=sharing).'
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -30,8 +30,8 @@ experience:
     date_start: '2023-05-01'
     date_end: ''
     description: |2-
-        * Worked on several research projects investigating biomarkers for Alzheimer’s Disease and fall-prevention interventions in older adults, supervised by Dr. Eugenie Roudaia.
-        * Assisted with study visit procedures by using EEG (electroencephalogram) to collect patient data, administering & scoring neuropsychological tests, & consolidating data in REDcap survey software.
+        * Worked on several research projects investigating biomarkers for **Alzheimer’s Disease** and **fall-prevention interventions** in older adults, supervised by Dr. Eugenie Roudaia.
+        * Assisted with study visit procedures by using **EEG (electroencephalogram)** to collect patient data, administering & scoring neuropsychological tests, & consolidating data in REDcap survey software.
         * Prepared research ethics board (REB) documents and used MATLAB to analyze EEG data.
   - title: Occupational Therapy Clinical Extern
     company: St. Michael's Hospital - Trauma & Neurosurgery Unit
@@ -42,9 +42,8 @@ experience:
     date_end: '2025-08-09'
     description: |2-
         *	Managed responsive behaviours, supported delirium prevention, and incorporated management strategies for patients with cognitive impairment.
-        *	Improved patient care through recreational activities, activities of daily living (ADLs), and mobilization support.
-        *	Used pressure injury prevention strategies to optimize patient positioning and promote skin integrity.
-        *	Implemented universal falls precautions and intentional rounding to ensure patient comfort and safety.
+        *	Improved patient care through **recreational activities**, **ADL**, and **mobilization** support.
+        *	Implemented universal **falls precautions** and intentional rounding to ensure patient comfort and safety.
 
   - title: Teaching Assistant
     company: PSYCH 1X03/1XX3 - McMaster University
@@ -54,9 +53,9 @@ experience:
     date_start: '2021-09-03'
     date_end: '2023-04-30'
     description: |2-
-        * Professionally trained in effective teaching and science communication, taught 3 tutorials a week for introductory psychology classes and provided mentorship support to over 220+ students.
+        * Professionally trained in effective teaching and **science communication**, taught 3 tutorials a week for introductory psychology classes and provided mentorship support to over 220+ students.
         * Assessed students’ individual needs and adapted teaching approach to meet different needs.
-        * Received honourable mention for the “TA of the Year Award” based on student nominations.
+        * Received honourable mention for the “**TA of the Year Award**” based on student nominations.
   - title: Research Assistant & Lab Manager
     company: Aquatic Behavioural Ecology Lab  - McMaster University
     company_url: 'https://abel.mcmaster.ca/'
@@ -66,8 +65,8 @@ experience:
     date_end: '2023-04-30'
     description: |2-
         * Responsible for the laboratory’s animal care program & proactively cared for 8+ fish species by completing tasks like feeding, water quality checks, water changes, and health checks.
-        * Communicated effectively with team of 25+ undergraduate and graduate students working on 10+ ongoing experiments to ensure smooth operation, & planned social events to foster community.
-        * Assisted field crew with long-term research projects monitoring local aquatic ecosystem health.
+        * Communicated effectively with team of **25+ students** working on **10+ ongoing experiments** to ensure smooth operation, & planned social events to foster community.
+        * Assisted **field crew** with projects monitoring local aquatic ecosystem health and supporting **endangered species**.
   - title: Research Assistant
     company: Wilson Toxicology Lab  - McMaster University
     company_url: 'https://wilsontoxlab.ca/'
@@ -84,8 +83,6 @@ experience:
         **Project 2**:  *Protein, lipid & water content in lake whitefish            tissue. | Environment & Climate Change Canada*
         * Used protein and lipid assays to determine % lipid, protein, and            water in muscle tissue.
         
-
-
 design:
   columns: '2'
 ---
