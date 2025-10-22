@@ -18,7 +18,7 @@ links:
   icon_pack: fas
   name: Worksheet
   url: https://drive.google.com/file/d/1hy-cOBS2wEs4m2KizCKqv7KxXBiVWZUe/view?usp=sharing
-summary: Money Money Money! This finance management activity package was created as my fieldwork 4 project to support brain injury recovery, it builds skills for basic money handling, using grocery flyers and online banking!
+summary: Money Money Money! This finance management activity package was created as my fieldwork 4 project to support brain injury recovery. It builds skills for basic money handling, using grocery flyers and online banking!
 tags:
 - Occupational Therapy
 title: Finance Management Tool for Brain Injury Recovery
