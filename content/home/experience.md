@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Featured Work Experience 💼
-subtitle: 'Curious about the full picture? Explore [all my experiences here](https://drive.google.com/file/d/1pA0k26ERctmr1xi3wmJxATKWFsbPO5zV/view?usp=sharing).'
+subtitle: 'Curious about the full picture? Explore [my résumé here](https://drive.google.com/file/d/1pA0k26ERctmr1xi3wmJxATKWFsbPO5zV/view?usp=sharing).'
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -41,7 +41,7 @@ experience:
     date_start: '2024-07-09'
     date_end: '2025-08-09'
     description: |2-
-        *	Managed responsive behaviours, supported delirium prevention, and incorporated management strategies for patients with cognitive impairment.
+        *	Managed **responsive behaviours**, supported delirium prevention, and incorporated management strategies for patients with cognitive impairment.
         *	Improved patient care through **recreational activities**, **ADL**, and **mobilization** support.
         *	Implemented universal **falls precautions** and intentional rounding to ensure patient comfort and safety.
 
