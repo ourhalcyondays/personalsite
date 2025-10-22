@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Resource
   url: https://drive.google.com/file/d/1l6_1O85Sjq0UZ8GyXSRJnpCVKT_kg2x4/view?usp=sharing
-summary: For my fieldwork 2 project, I created this list of free or affordable IADL services available for individuals living in the GTA to support patient discharge.
+summary: For my fieldwork 2 project, I created this resource list of free or affordable IADL services available for individuals living in the GTA to support patient discharge.
 tags:
 - Occupational Therapy
 title: Community IADL Resources for the GTA
