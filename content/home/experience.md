@@ -67,21 +67,7 @@ experience:
         * Responsible for the laboratory’s animal care program & proactively cared for 8+ fish species by completing tasks like feeding, water quality checks, water changes, and health checks.
         * Communicated effectively with team of **25+ students** working on **10+ ongoing experiments** to ensure smooth operation, & planned social events to foster community.
         * Assisted **field crew** with projects monitoring local aquatic ecosystem health and supporting **endangered species**.
-  - title: Research Assistant
-    company: Wilson Toxicology Lab  - McMaster University
-    company_url: 'https://wilsontoxlab.ca/'
-    company_logo: flask
-    location: Hamilton, ON
-    date_start: '2021-05-03'
-    date_end: '2021-09-03'
-    description: |2-
-        **Project 1**:  *Effects of metformin on larval & adult zebrafish. |         Dr. Joanna Wilson & Dr. Oana Birceanu*
-        * Collected tissue samples from fish (brain, liver, gill, kidney,           gonad, intestine, and muscle).
-        * Imaged 300+ larval zebrafish at 5 life stages and completed               morphometric measurements on images.
-        * Assisted in the laboratory’s animal care program for zebrafish,           whitefish, and yellow perch, completing tasks like feeding, water           quality checks, water changes, and water sampling.
-        
-        **Project 2**:  *Protein, lipid & water content in lake whitefish            tissue. | Environment & Climate Change Canada*
-        * Used protein and lipid assays to determine % lipid, protein, and            water in muscle tissue.
+         water in muscle tissue.
         
 design:
   columns: '2'
