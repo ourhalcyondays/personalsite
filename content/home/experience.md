@@ -33,6 +33,18 @@ experience:
         * Worked on several research projects investigating biomarkers for Alzheimer’s Disease and fall-prevention interventions in older adults, supervised by Dr. Eugenie Roudaia.
         * Assisted with study visit procedures by using EEG (electroencephalogram) to collect patient data, administering & scoring neuropsychological tests, & consolidating data in REDcap survey software.
         * Prepared research ethics board (REB) documents and used MATLAB to analyze EEG data.
+  - title: Occupational Therapy Clinical Extern
+    company: St. Michael's Hospital - Trauma & Neurosurgery Unit
+    company_url: 'https://unityhealth.to/areas-of-care/programs-and-clinics/trauma-and-neurosurgery/'
+    company_logo: hospital
+    location: Toronto, ON
+    date_start: '2024-07-09'
+    date_end: '2025-08-09'
+    description: |2-
+        *	Managed responsive behaviours, supported delirium prevention, and incorporated management strategies for patients with cognitive impairment.
+        *	Improved patient care through recreational activities, activities of daily living (ADLs), and mobilization support.
+        *	Used pressure injury prevention strategies to optimize patient positioning and promote skin integrity.
+        *	Implemented universal falls precautions and intentional rounding to ensure patient comfort and safety.
 
   - title: Teaching Assistant
     company: PSYCH 1X03/1XX3 - McMaster University
@@ -72,20 +84,6 @@ experience:
         **Project 2**:  *Protein, lipid & water content in lake whitefish            tissue. | Environment & Climate Change Canada*
         * Used protein and lipid assays to determine % lipid, protein, and            water in muscle tissue.
         
-  - title: Independent Research Student
-    company: Aquatic Behavioural Ecology Lab  - McMaster University
-    company_url: 'https://abel.mcmaster.ca/'
-    company_logo: fish
-    location: Hamilton, ON
-    date_start: '2020-01-09'
-    date_end: '2022-01-09'
-    description: |2-
-        **Project 1**:  *Leadership behaviour in the endangered redside             dace. | Dr. Sigal Balshine & Dr. Andy Turko*
-        *	Mastered new software (BORIS) to collect experimental data from           video observations.
-        * Presented completed **[research](https://drive.google.com/file/d/1SRaFvVckpJWQ_tPyrwycQvgXq2r5-k1H/view)** at the Annual Ontario Psychology             Undergraduate Thesis Conference (AOPUTC), placing top 10% out of            200+ undergraduate thesis presentations.
-        
-        **Project 2**:  *The effects of caffeine & captivity on learning in fathead minnows. | Dr. Sigal Balshine*
-        *	Assisted with experimental assays and improved study methodology by using Excel knowledge to facilitate more efficient data collection.
 
 
 design:
