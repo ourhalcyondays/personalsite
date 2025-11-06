@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Featured Work Experience 💼
-subtitle: 'Curious about the full picture? Explore [my résumé here](https://drive.google.com/file/d/1pA0k26ERctmr1xi3wmJxATKWFsbPO5zV/view?usp=sharing).'
+subtitle: 'Curious about the full picture? Explore [my résumé here](https://jessicaqiu.me/uploads/CV.pdf).'
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
